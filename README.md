@@ -22,6 +22,7 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 | Ruflo | Orquestração de agentes para o Claude Code | [github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
 | 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [pi-hole.net](https://pi-hole.net) · [SearXNG](https://github.com/searxng/searxng) · [Home Assistant](https://www.home-assistant.io) · [AudioBookShelf](https://www.audiobookshelf.org) · [Tailscale](https://tailscale.com) |
 | 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Proxmox Backup Server](https://pbs.proxmox.com/docs/) |
+| Photocraft, Filmcraft e Artcraft | Alternativa open source à Adobe, em Rust | [github.com/storytold/photocraft](https://github.com/storytold/photocraft) · [github.com/storytold/filmcraft](https://github.com/storytold/filmcraft) · [github.com/storytold/artcraft](https://github.com/storytold/artcraft) |
 
 ## 💬 Comentaste um vídeo?
 Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página.
