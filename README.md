@@ -22,7 +22,6 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 | Ruflo | Orquestração de agentes para o Claude Code | [github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
 | 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [pi-hole.net](https://pi-hole.net) · [SearXNG](https://github.com/searxng/searxng) · [Home Assistant](https://www.home-assistant.io) · [AudioBookShelf](https://www.audiobookshelf.org) · [Tailscale](https://tailscale.com) |
 | 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Proxmox Backup Server](https://pbs.proxmox.com/docs/) |
-| Teste automatico | Linha temporaria de teste da regra readme-kcuulab | [github.com/KCUuLAB/kcuulab](https://github.com/KCUuLAB/kcuulab) |
 
 ## 💬 Comentaste um vídeo?
 Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página.
