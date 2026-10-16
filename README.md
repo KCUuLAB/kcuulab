@@ -16,16 +16,19 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 
 | Vídeo | O que é | Link |
 |---|---|---|
-| Superpowers | Plugin de skills para o Claude Code | [github.com/obra/superpowers](https://github.com/obra/superpowers) |
-| Chatterbox | IA open-source que clona vozes | [github.com/resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) |
-| HyperFrames | Criar vídeos com HTML e código | [github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
-| Ruflo | Orquestração de agentes para o Claude Code | [github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [pi-hole.net](https://pi-hole.net) · [SearXNG](https://github.com/searxng/searxng) · [Home Assistant](https://www.home-assistant.io) · [AudioBookShelf](https://www.audiobookshelf.org) · [Tailscale](https://tailscale.com) |
-| 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Proxmox Backup Server](https://pbs.proxmox.com/docs/) |
-| Photocraft, Filmcraft e Artcraft | Alternativa open source à Adobe, em Rust | [github.com/storytold/photocraft](https://github.com/storytold/photocraft) · [github.com/storytold/filmcraft](https://github.com/storytold/filmcraft) · [github.com/storytold/artcraft](https://github.com/storytold/artcraft) |
+| Umbrel 2.0 | umbrelOS 2.0: o servidor de casa com cara de Apple | [Abrir o link](https://services.gguerreiro232.com/go/umbrel-2-0/) |
+| PIGGY + LifeOS | Dinheiro e notas no teu computador, sem nuvem | [Abrir o link](https://services.gguerreiro232.com/go/piggy-sem-nuvem/) |
+| Photocraft, Filmcraft e Artcraft | Alternativa open source à Adobe, em Rust | [Abrir o link](https://services.gguerreiro232.com/go/craft-adobe-gratis/) |
+| Superpowers | Plugin de skills para o Claude Code | [Abrir o link](https://services.gguerreiro232.com/go/superpowers/) |
+| Chatterbox | IA open-source que clona vozes | [Abrir o link](https://services.gguerreiro232.com/go/chatterbox/) |
+| HyperFrames | Criar vídeos com HTML e código | [Abrir o link](https://services.gguerreiro232.com/go/hyperframes/) |
+| Ruflo | Orquestração de agentes para o Claude Code | [Abrir o link](https://services.gguerreiro232.com/go/ruflo/) |
+| Backups no Proxmox (Parte 2) | O primeiro backup do servidor, e o que correu mal | [Abrir o link](https://services.gguerreiro232.com/go/backups-parte-2/) |
+| 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Abrir o link](https://services.gguerreiro232.com/go/3-coisas-servidor/) |
+| 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [Abrir o link](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
 
 ## 💬 Comentaste um vídeo?
-Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página.
+Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [https://services.gguerreiro232.com/go/](https://services.gguerreiro232.com/go/).
 
 ---
 [Política de privacidade](PRIVACY.md) · Contacto: kcuulab@proton.me
