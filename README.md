@@ -26,6 +26,7 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 | Backups no Proxmox (Parte 2) | O primeiro backup do servidor, e o que correu mal | [Abrir o link](https://services.gguerreiro232.com/go/backups-parte-2/) |
 | 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Abrir o link](https://services.gguerreiro232.com/go/3-coisas-servidor/) |
 | 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [Abrir o link](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
+| [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [services.gguerreiro232.com/go/hermes](https://services.gguerreiro232.com/go/hermes) |
 
 ## 💬 Comentaste um vídeo?
 Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [https://services.gguerreiro232.com/go/](https://services.gguerreiro232.com/go/).
