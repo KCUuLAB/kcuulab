@@ -28,6 +28,7 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 | 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [Abrir o link](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
 | [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [services.gguerreiro232.com/go/hermes](https://services.gguerreiro232.com/go/hermes) |
 | [2026-10-19-playbook-servidor](https://youtu.be/EPH0nOZHqUo) |  | [services.gguerreiro232.com/go/playbook-servidor](https://services.gguerreiro232.com/go/playbook-servidor) |
+| [Guitoro](https://youtu.be/nYR48t0IrH4) | Guitarra virtual tocada com o teclado | [services.gguerreiro232.com/go/guitoro](https://services.gguerreiro232.com/go/guitoro) |
 
 ## 💬 Comentaste um vídeo?
 Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [https://services.gguerreiro232.com/go/](https://services.gguerreiro232.com/go/).
