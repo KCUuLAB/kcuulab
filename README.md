@@ -17,13 +17,13 @@ Novos vídeos sobre IA, ferramentas para programadores e o meu homelab todas as 
 | Vídeo | O que é | Link |
 |---|---|---|
 | Umbrel 2.0 | umbrelOS 2.0: o servidor de casa com cara de Apple | [Abrir o link](https://services.gguerreiro232.com/go/umbrel-2-0/) |
-| PIGGY + LifeOS | Dinheiro e notas no teu computador, sem nuvem | [Abrir o link](https://services.gguerreiro232.com/go/piggy-lifeos/) |
+| PIGGY + LifeOS | Dinheiro e notas no teu computador, sem nuvem | [services.gguerreiro232.com/go/piggy-sem-nuvem](https://services.gguerreiro232.com/go/piggy-sem-nuvem) |
 | Photocraft, Filmcraft e Artcraft | Alternativa open source à Adobe, em Rust | [Abrir o link](https://services.gguerreiro232.com/go/craft-adobe-gratis/) |
-| Superpowers | Plugin de skills para o Claude Code | [Abrir o link](https://services.gguerreiro232.com/go/superpowers/) |
-| Chatterbox | IA open-source que clona vozes | [Abrir o link](https://services.gguerreiro232.com/go/chatterbox/) |
-| HyperFrames | Criar vídeos com HTML e código | [Abrir o link](https://services.gguerreiro232.com/go/hyperframes/) |
-| Ruflo | Orquestração de agentes para o Claude Code | [Abrir o link](https://services.gguerreiro232.com/go/ruflo/) |
-| Backups no Proxmox (Parte 2) | O primeiro backup do servidor, e o que correu mal | [Abrir o link](https://services.gguerreiro232.com/go/backups-parte-2/) |
+| Superpowers | Plugin de skills para o Claude Code | [services.gguerreiro232.com/go/superpowers](https://services.gguerreiro232.com/go/superpowers) |
+| Chatterbox | IA open-source que clona vozes | [services.gguerreiro232.com/go/chatterbox](https://services.gguerreiro232.com/go/chatterbox) |
+| HyperFrames | Criar vídeos com HTML e código | [services.gguerreiro232.com/go/hyperframes](https://services.gguerreiro232.com/go/hyperframes) |
+| Ruflo | Orquestração de agentes para o Claude Code | [services.gguerreiro232.com/go/ruflo](https://services.gguerreiro232.com/go/ruflo) |
+| Backups no Proxmox (Parte 2) | O primeiro backup do servidor, e o que correu mal | [services.gguerreiro232.com/go/backups-parte-2](https://services.gguerreiro232.com/go/backups-parte-2) |
 | 3 coisas sobre ter um servidor em casa | Backups no Proxmox | [Abrir o link](https://services.gguerreiro232.com/go/3-coisas-servidor/) |
 | 5 apps em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf, Tailscale | [Abrir o link](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
 | [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [services.gguerreiro232.com/go/hermes](https://services.gguerreiro232.com/go/hermes) |
