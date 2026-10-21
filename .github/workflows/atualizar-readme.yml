@@ -1,0 +1,43 @@
+name: Atualizar README
+
+# A tabela "Links dos vídeos" vem de services.gguerreiro232.com/go/links.json.
+# Corre todos os dias, quando o script muda e quando a publicação de um vídeo a chama.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/atualizar_readme.py"
+      - ".github/workflows/atualizar-readme.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-readme
+  cancel-in-progress: false
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refazer a tabela
+        run: python scripts/atualizar_readme.py
+      - name: Guardar se mudou
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nada a mudar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "README: links atualizados"
+          git push
