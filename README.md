@@ -34,6 +34,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Conectores MCP para ligar a IA a ferramentas | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry) |
 | [PIGGY + LifeOS (sem nuvem)](https://youtu.be/kqzvRxJbYR0) | Dinheiro e notas no teu computador, sem conta nem mensalidade | [services.gguerreiro232.com/go/piggy-sem-nuvem](https://services.gguerreiro232.com/go/piggy-sem-nuvem) |
 | [rea](https://youtu.be/Z1PyuAHT5Z8) | IA que faz engenharia reversa de sites e binários | [services.gguerreiro232.com/go/rea](https://services.gguerreiro232.com/go/rea) |
+| [AI-DLC Workflows](https://youtu.be/XDns5aAJo38) | Regras de steering para agentes de código | [services.gguerreiro232.com/go/aidlc-workflows](https://services.gguerreiro232.com/go/aidlc-workflows) |
 
 ## 💬 Comentaste um vídeo?
 Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [https://services.gguerreiro232.com/go/](https://services.gguerreiro232.com/go/).
