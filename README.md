@@ -28,7 +28,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | 5 apps no servidor em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf e Tailscale | [services.gguerreiro232.com/go/5-apps-em-casa](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
 | Chatterbox | IA que clona a voz | [services.gguerreiro232.com/go/chatterbox](https://services.gguerreiro232.com/go/chatterbox/) |
 | umbrelOS 2.0 | Servidor de casa com cara de Apple | [services.gguerreiro232.com/go/umbrel-2-0](https://services.gguerreiro232.com/go/umbrel-2-0/) |
-| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-apostas](https://services.gguerreiro232.com/go/pihole-apostas/) |
+| [Pi-hole anti-apostas](https://youtu.be/OJaOaFvmLL4) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-apostas](https://services.gguerreiro232.com/go/pihole-apostas/) |
 | PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos](https://services.gguerreiro232.com/go/piggy-lifeos/) |
 | [Playbook de Proteção (servidor em casa)](https://youtu.be/EPH0nOZHqUo) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-servidor](https://services.gguerreiro232.com/go/playbook-servidor/) |
 | Empresa de 13 Agentes | Serviços de IA | [services.gguerreiro232.com/go/empresa-13-agentes](https://services.gguerreiro232.com/go/empresa-13-agentes/) |
