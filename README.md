@@ -62,7 +62,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [PIGGY + LifeOS (sem nuvem)](https://youtu.be/kqzvRxJbYR0) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-sem-nuvem](https://services.gguerreiro232.com/go/piggy-sem-nuvem/) |
 | [Guitoro](https://youtu.be/nYR48t0IrH4) | Aprender guitarra com IA | [services.gguerreiro232.com/go/guitoro](https://services.gguerreiro232.com/go/guitoro/) |
 | Flipflop | Túneis para expor serviços locais | [services.gguerreiro232.com/go/flipflop](https://services.gguerreiro232.com/go/flipflop/) |
-| Claude Haiku 5.5 | Modelo rápido e barato da Anthropic | [services.gguerreiro232.com/go/claude-haiku-5-5](https://services.gguerreiro232.com/go/claude-haiku-5-5/) |
+| [Claude Haiku 5.5](https://youtu.be/v6gTkGhc0G4) | Modelo rápido e barato da Anthropic | [services.gguerreiro232.com/go/claude-haiku-5-5](https://services.gguerreiro232.com/go/claude-haiku-5-5/) |
 | [OpenCode 2.0](https://youtu.be/sORF_wdXodg) | Agente de código open source | [services.gguerreiro232.com/go/opencode-2](https://services.gguerreiro232.com/go/opencode-2/) |
 | [LFM 2.5](https://youtu.be/3wYfqsTgD_Y) | Modelo local da Liquid AI | [services.gguerreiro232.com/go/lfm-2-5](https://services.gguerreiro232.com/go/lfm-2-5/) |
 | [AI-DLC Workflows](https://youtu.be/XDns5aAJo38) | Fluxos de desenvolvimento com IA da AWS | [services.gguerreiro232.com/go/aidlc-workflows](https://services.gguerreiro232.com/go/aidlc-workflows/) |
