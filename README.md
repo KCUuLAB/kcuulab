@@ -20,6 +20,16 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| 3 dicas de produtividade com IA | Serviços de IA | [services.gguerreiro232.com/go/3-dicas-produtividade-ia](https://services.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
+| Antes/Depois: sem Claude vs com Claude | Agente de código no terminal | [services.gguerreiro232.com/go/antes-depois-claude](https://services.gguerreiro232.com/go/antes-depois-claude/) |
+| Top 5 repos para IA local | Ollama, n8n, Pi-hole, Proxmox e mais um | [services.gguerreiro232.com/go/top-5-repos-ia-local](https://services.gguerreiro232.com/go/top-5-repos-ia-local/) |
+| Tour do meu homelab | Proxmox, Ollama, n8n, Pi-hole e backups numa máquina | [services.gguerreiro232.com/go/setup-homelab-tour](https://services.gguerreiro232.com/go/setup-homelab-tour/) |
+| Playbook de Proteção (unboxing) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-unboxing](https://services.gguerreiro232.com/go/playbook-protecao-unboxing/) |
+| DeepSeek V3 vs Claude | Custo-benefício para automações e homelab | [services.gguerreiro232.com/go/deepseek-v3-vs-claude](https://services.gguerreiro232.com/go/deepseek-v3-vs-claude/) |
+| Pi-hole: bloqueador de domínios | Produto KCU Services | [services.gguerreiro232.com/go/pihole-bloqueador-dns](https://services.gguerreiro232.com/go/pihole-bloqueador-dns/) |
+| Ollama + Claude Code | IA local no Claude Code, sem cloud | [services.gguerreiro232.com/go/ollama-claude-code](https://services.gguerreiro232.com/go/ollama-claude-code/) |
+| Security-Audit-Skill | Auditoria de segurança de código em 6 fases | [services.gguerreiro232.com/go/security-audit-skill](https://services.gguerreiro232.com/go/security-audit-skill/) |
+| REA: engenharia reversa com IA | IA a abrir apps fechadas com Ghidra e Hopper | [services.gguerreiro232.com/go/rea-engenharia-reversa](https://services.gguerreiro232.com/go/rea-engenharia-reversa/) |
 | Blender, o programa do Óscar | O programa open source onde fizeram o Flow, Óscar de animação 2025: onde o descarregar e por onde começar | [services.gguerreiro232.com/go/blender](https://services.gguerreiro232.com/go/blender/) |
 | Servidor em casa com modelo local | O guia: seu servidor lê documentos, organiza fotos e controla a casa, sem nuvem | [services.gguerreiro232.com/go/servidor-casa](https://services.gguerreiro232.com/go/servidor-casa/) |
 | Claude Code Local | Claude Code sem internet (via Ollama) | [services.gguerreiro232.com/go/claude-code-local](https://services.gguerreiro232.com/go/claude-code-local/) |
@@ -43,23 +53,23 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Pi-hole anti-apostas (sem anúncios) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-sem-anuncios](https://services.gguerreiro232.com/go/pihole-sem-anuncios/) |
 | Museu da Vinci 3D | Museu virtual em 3D | [services.gguerreiro232.com/go/museu-vinci](https://services.gguerreiro232.com/go/museu-vinci/) |
 | PIGGY + LifeOS (pagas uma vez) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-uma-vez](https://services.gguerreiro232.com/go/piggy-uma-vez/) |
-| Pulse Local | Finanças pessoais locais | [services.gguerreiro232.com/go/pulse-local](https://services.gguerreiro232.com/go/pulse-local/) |
-| Playbook de Proteção (zero portas abertas) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-zero-portas](https://services.gguerreiro232.com/go/playbook-zero-portas/) |
-| PDF to MP3 | Converter PDF em áudio | [services.gguerreiro232.com/go/pdf-to-mp3](https://services.gguerreiro232.com/go/pdf-to-mp3/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia](https://services.gguerreiro232.com/go/assistencia/) |
-| AnyPS5 | Ferramenta open source para PS5 | [services.gguerreiro232.com/go/anyps5](https://services.gguerreiro232.com/go/anyps5/) |
+| [Pulse Local](https://youtu.be/Y-Q0vBJ3QaU) | Finanças pessoais locais | [services.gguerreiro232.com/go/pulse-local](https://services.gguerreiro232.com/go/pulse-local/) |
+| [Playbook de Proteção (zero portas abertas)](https://youtu.be/oxcXNzbfdE4) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-zero-portas](https://services.gguerreiro232.com/go/playbook-zero-portas/) |
+| [PDF to MP3](https://youtu.be/O-0dVbCXmaA) | Converter PDF em áudio | [services.gguerreiro232.com/go/pdf-to-mp3](https://services.gguerreiro232.com/go/pdf-to-mp3/) |
+| [Assistência KCU](https://youtu.be/_-JXHTTmLOk) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia](https://services.gguerreiro232.com/go/assistencia/) |
+| [AnyPS5](https://youtu.be/YaK3ynHiNMc) | Ferramenta open source para PS5 | [services.gguerreiro232.com/go/anyps5](https://services.gguerreiro232.com/go/anyps5/) |
 | [rea](https://youtu.be/Z1PyuAHT5Z8) | Ferramenta open source | [services.gguerreiro232.com/go/rea](https://services.gguerreiro232.com/go/rea/) |
 | [PIGGY + LifeOS (sem nuvem)](https://youtu.be/kqzvRxJbYR0) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-sem-nuvem](https://services.gguerreiro232.com/go/piggy-sem-nuvem/) |
 | [Guitoro](https://youtu.be/nYR48t0IrH4) | Aprender guitarra com IA | [services.gguerreiro232.com/go/guitoro](https://services.gguerreiro232.com/go/guitoro/) |
 | Flipflop | Túneis para expor serviços locais | [services.gguerreiro232.com/go/flipflop](https://services.gguerreiro232.com/go/flipflop/) |
 | Claude Haiku 5.5 | Modelo rápido e barato da Anthropic | [services.gguerreiro232.com/go/claude-haiku-5-5](https://services.gguerreiro232.com/go/claude-haiku-5-5/) |
-| OpenCode 2.0 | Agente de código open source | [services.gguerreiro232.com/go/opencode-2](https://services.gguerreiro232.com/go/opencode-2/) |
-| LFM 2.5 | Modelo local da Liquid AI | [services.gguerreiro232.com/go/lfm-2-5](https://services.gguerreiro232.com/go/lfm-2-5/) |
+| [OpenCode 2.0](https://youtu.be/sORF_wdXodg) | Agente de código open source | [services.gguerreiro232.com/go/opencode-2](https://services.gguerreiro232.com/go/opencode-2/) |
+| [LFM 2.5](https://youtu.be/3wYfqsTgD_Y) | Modelo local da Liquid AI | [services.gguerreiro232.com/go/lfm-2-5](https://services.gguerreiro232.com/go/lfm-2-5/) |
 | [AI-DLC Workflows](https://youtu.be/XDns5aAJo38) | Fluxos de desenvolvimento com IA da AWS | [services.gguerreiro232.com/go/aidlc-workflows](https://services.gguerreiro232.com/go/aidlc-workflows/) |
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_38 links, do mais recente para o mais antigo._
+_48 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
