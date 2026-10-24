@@ -20,6 +20,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
 | 3 dicas de produtividade com IA | Serviços de IA | [services.gguerreiro232.com/go/3-dicas-produtividade-ia](https://services.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
 | Antes/Depois: sem Claude vs com Claude | Agente de código no terminal | [services.gguerreiro232.com/go/antes-depois-claude](https://services.gguerreiro232.com/go/antes-depois-claude/) |
 | Top 5 repos para IA local | Ollama, n8n, Pi-hole, Proxmox e mais um | [services.gguerreiro232.com/go/top-5-repos-ia-local](https://services.gguerreiro232.com/go/top-5-repos-ia-local/) |
@@ -52,7 +53,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | openGym | Ginásio open source | [services.gguerreiro232.com/go/opengym](https://services.gguerreiro232.com/go/opengym/) |
 | Pi-hole anti-apostas (sem anúncios) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-sem-anuncios](https://services.gguerreiro232.com/go/pihole-sem-anuncios/) |
 | Museu da Vinci 3D | Museu virtual em 3D | [services.gguerreiro232.com/go/museu-vinci](https://services.gguerreiro232.com/go/museu-vinci/) |
-| PIGGY + LifeOS (pagas uma vez) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-uma-vez](https://services.gguerreiro232.com/go/piggy-uma-vez/) |
+| [PIGGY + LifeOS (pagas uma vez)](https://youtu.be/LEMjCCANBro) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-uma-vez](https://services.gguerreiro232.com/go/piggy-uma-vez/) |
 | [Pulse Local](https://youtu.be/Y-Q0vBJ3QaU) | Finanças pessoais locais | [services.gguerreiro232.com/go/pulse-local](https://services.gguerreiro232.com/go/pulse-local/) |
 | [Playbook de Proteção (zero portas abertas)](https://youtu.be/oxcXNzbfdE4) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-zero-portas](https://services.gguerreiro232.com/go/playbook-zero-portas/) |
 | [PDF to MP3](https://youtu.be/O-0dVbCXmaA) | Converter PDF em áudio | [services.gguerreiro232.com/go/pdf-to-mp3](https://services.gguerreiro232.com/go/pdf-to-mp3/) |
@@ -69,7 +70,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_48 links, do mais recente para o mais antigo._
+_49 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
