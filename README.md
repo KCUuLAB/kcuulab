@@ -20,6 +20,11 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| PIGGY + LifeOS (sem mensalidade) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
+| Claude Code Enterprise | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
+| Petal | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
+| Duck Pond | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
+| Playbook de Proteção (backup antes de mexer) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-backup-rollback](https://services.gguerreiro232.com/go/playbook-backup-rollback/) |
 | Claude Sonnet 5.5 | Modelo da Anthropic, mais rápido e mais barato | [services.gguerreiro232.com/go/claude-sonnet-5-5](https://services.gguerreiro232.com/go/claude-sonnet-5-5/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
 | 3 dicas de produtividade com IA | Serviços de IA | [services.gguerreiro232.com/go/3-dicas-produtividade-ia](https://services.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
@@ -38,6 +43,9 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | O meu homelab | O que corre no homelab do KCUuLab: um mini PC, Proxmox e 9 máquinas | [services.gguerreiro232.com/go/homelab](https://services.gguerreiro232.com/go/homelab/) |
 | [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [services.gguerreiro232.com/go/hermes](https://services.gguerreiro232.com/go/hermes/) |
 | 5 apps no servidor em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf e Tailscale | [services.gguerreiro232.com/go/5-apps-em-casa](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
+| 5 jogos com segredos | Histórias e vídeos do KCUuLab | [services.gguerreiro232.com/go/jogos-segredos](https://services.gguerreiro232.com/go/jogos-segredos/) |
+| Wi-Fi lento à noite | Guias de rede do KCUuLab | [services.gguerreiro232.com/go/wifi-lento](https://services.gguerreiro232.com/go/wifi-lento/) |
+| 5 atalhos de teclado | Truques e guias do KCUuLab | [services.gguerreiro232.com/go/atalhos-teclado](https://services.gguerreiro232.com/go/atalhos-teclado/) |
 | Chatterbox | IA que clona a voz | [services.gguerreiro232.com/go/chatterbox](https://services.gguerreiro232.com/go/chatterbox/) |
 | umbrelOS 2.0 | Servidor de casa com cara de Apple | [services.gguerreiro232.com/go/umbrel-2-0](https://services.gguerreiro232.com/go/umbrel-2-0/) |
 | [Pi-hole anti-apostas](https://youtu.be/OJaOaFvmLL4) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-apostas](https://services.gguerreiro232.com/go/pihole-apostas/) |
@@ -51,8 +59,8 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Ruflo | Agentes para o Claude Code | [services.gguerreiro232.com/go/ruflo](https://services.gguerreiro232.com/go/ruflo/) |
 | Superpowers | Plugin que dá superpoderes ao Claude Code | [services.gguerreiro232.com/go/superpowers](https://services.gguerreiro232.com/go/superpowers/) |
 | HyperFrames | Vídeos feitos com código (HTML) | [services.gguerreiro232.com/go/hyperframes](https://services.gguerreiro232.com/go/hyperframes/) |
-| openGym | Ginásio open source | [services.gguerreiro232.com/go/opengym](https://services.gguerreiro232.com/go/opengym/) |
-| Pi-hole anti-apostas (sem anúncios) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-sem-anuncios](https://services.gguerreiro232.com/go/pihole-sem-anuncios/) |
+| [openGym](https://youtu.be/Z26l3rcKqPg) | Ginásio open source | [services.gguerreiro232.com/go/opengym](https://services.gguerreiro232.com/go/opengym/) |
+| [Pi-hole anti-apostas (sem anúncios)](https://youtu.be/2H8oiDTNr4o) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-sem-anuncios](https://services.gguerreiro232.com/go/pihole-sem-anuncios/) |
 | [Museu da Vinci 3D](https://youtu.be/_PyWAxv5pTY) | Museu virtual em 3D | [services.gguerreiro232.com/go/museu-vinci](https://services.gguerreiro232.com/go/museu-vinci/) |
 | [PIGGY + LifeOS (pagas uma vez)](https://youtu.be/LEMjCCANBro) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-uma-vez](https://services.gguerreiro232.com/go/piggy-uma-vez/) |
 | [Pulse Local](https://youtu.be/Y-Q0vBJ3QaU) | Finanças pessoais locais | [services.gguerreiro232.com/go/pulse-local](https://services.gguerreiro232.com/go/pulse-local/) |
@@ -71,7 +79,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_50 links, do mais recente para o mais antigo._
+_58 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
