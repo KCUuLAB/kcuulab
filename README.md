@@ -32,7 +32,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | PIGGY + LifeOS (sem mensalidade) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
 | Claude Code Enterprise | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
 | Petal | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
-| Duck Pond | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
+| [Duck Pond](https://youtu.be/R7o--RjqBL4) | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
 | [Playbook de Proteção (backup antes de mexer)](https://youtu.be/Spmu_oIUYCM) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-backup-rollback](https://services.gguerreiro232.com/go/playbook-backup-rollback/) |
 | [Claude Sonnet 5.5](https://youtu.be/dWkfp1kQPQY) | Modelo da Anthropic, mais rápido e mais barato | [services.gguerreiro232.com/go/claude-sonnet-5-5](https://services.gguerreiro232.com/go/claude-sonnet-5-5/) |
 | 3 dicas de produtividade com IA | Serviços de IA | [services.gguerreiro232.com/go/3-dicas-produtividade-ia](https://services.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
