@@ -30,7 +30,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Claude Opus 5.5 | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
 | Ollama: IA local no teu PC | Corre modelos de IA na tua placa, sem conta nem nuvem | [services.gguerreiro232.com/go/ollama-ia-local](https://services.gguerreiro232.com/go/ollama-ia-local/) |
 | PIGGY + LifeOS (sem mensalidade) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
-| Claude Code Enterprise | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
+| [Claude Code Enterprise](https://youtu.be/W-9jfv8ViLA) | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
 | Petal | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
 | [Duck Pond](https://youtu.be/R7o--RjqBL4) | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
 | [Playbook de Proteção (backup antes de mexer)](https://youtu.be/Spmu_oIUYCM) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-backup-rollback](https://services.gguerreiro232.com/go/playbook-backup-rollback/) |
