@@ -20,6 +20,12 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| Xbox 360 hack | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
+| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
+| Photocraft | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
+| Clova | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
+| CADCraft | CAD e design 3D open source, em Rust puro | [services.gguerreiro232.com/go/cadcraft-rust](https://services.gguerreiro232.com/go/cadcraft-rust/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
 | Indigene | Plantas nativas da tua zona, a partir da localização | [services.gguerreiro232.com/go/indigene-plantas](https://services.gguerreiro232.com/go/indigene-plantas/) |
 | Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-casa-toda](https://services.gguerreiro232.com/go/pihole-casa-toda/) |
@@ -29,9 +35,9 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
 | Claude Opus 5.5 | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
 | Ollama: IA local no teu PC | Corre modelos de IA na tua placa, sem conta nem nuvem | [services.gguerreiro232.com/go/ollama-ia-local](https://services.gguerreiro232.com/go/ollama-ia-local/) |
-| PIGGY + LifeOS (sem mensalidade) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
+| [PIGGY + LifeOS (sem mensalidade)](https://youtu.be/9u9JfPvPp00) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
 | [Claude Code Enterprise](https://youtu.be/W-9jfv8ViLA) | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
-| Petal | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
+| [Petal](https://youtu.be/LDILC0xqk8E) | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
 | [Duck Pond](https://youtu.be/R7o--RjqBL4) | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
 | [Playbook de Proteção (backup antes de mexer)](https://youtu.be/Spmu_oIUYCM) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-backup-rollback](https://services.gguerreiro232.com/go/playbook-backup-rollback/) |
 | [Claude Sonnet 5.5](https://youtu.be/dWkfp1kQPQY) | Modelo da Anthropic, mais rápido e mais barato | [services.gguerreiro232.com/go/claude-sonnet-5-5](https://services.gguerreiro232.com/go/claude-sonnet-5-5/) |
@@ -87,7 +93,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_66 links, do mais recente para o mais antigo._
+_72 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
