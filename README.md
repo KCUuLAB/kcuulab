@@ -20,6 +20,9 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [services.gguerreiro232.com/go/security-audit-cloudflare](https://services.gguerreiro232.com/go/security-audit-cloudflare/) |
+| impeccable | Critério de design para agentes de código | [services.gguerreiro232.com/go/impeccable-design](https://services.gguerreiro232.com/go/impeccable-design/) |
+| claude-mem | Memória persistente para o Claude Code | [services.gguerreiro232.com/go/claude-mem](https://services.gguerreiro232.com/go/claude-mem/) |
 | Xbox 360 hack | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
 | Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
 | Photocraft | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
@@ -32,8 +35,8 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [services.gguerreiro232.com/go/graphicle-diagramas](https://services.gguerreiro232.com/go/graphicle-diagramas/) |
 | Go 1.27 | Reutilização de ligações HTTP/1 melhorada | [services.gguerreiro232.com/go/go-1-27-http](https://services.gguerreiro232.com/go/go-1-27-http/) |
 | Jev 1.14.0 | Agentes de IA que simulam cenários antes de escrever código | [services.gguerreiro232.com/go/jev-1-14](https://services.gguerreiro232.com/go/jev-1-14/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
-| Claude Opus 5.5 | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
+| [Assistência KCU](https://youtu.be/G-tbw_vIKLc) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
+| [Claude Opus 5.5](https://youtu.be/pqD-h5cVAMA) | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
 | Ollama: IA local no teu PC | Corre modelos de IA na tua placa, sem conta nem nuvem | [services.gguerreiro232.com/go/ollama-ia-local](https://services.gguerreiro232.com/go/ollama-ia-local/) |
 | [PIGGY + LifeOS (sem mensalidade)](https://youtu.be/9u9JfPvPp00) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
 | [Claude Code Enterprise](https://youtu.be/W-9jfv8ViLA) | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
@@ -93,7 +96,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_72 links, do mais recente para o mais antigo._
+_75 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
