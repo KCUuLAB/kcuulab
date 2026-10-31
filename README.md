@@ -20,6 +20,12 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| claude-seo | Skill de SEO técnico e GEO para o Claude Code | [services.gguerreiro232.com/go/claude-seo-skill](https://services.gguerreiro232.com/go/claude-seo-skill/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-09-11](https://services.gguerreiro232.com/go/checklist-seguranca-09-11/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-08-11](https://services.gguerreiro232.com/go/piggy-lifeos-08-11/) |
+| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-07-11](https://services.gguerreiro232.com/go/playbook-protecao-07-11/) |
+| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-06-11](https://services.gguerreiro232.com/go/assistencia-kcu-06-11/) |
+| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-05-11](https://services.gguerreiro232.com/go/pihole-05-11/) |
 | assistencia-kcu-04-11 |  | [services.gguerreiro232.com/go/assistencia-kcu-04-11](https://services.gguerreiro232.com/go/assistencia-kcu-04-11/) |
 | checklist-seguranca-03-11 |  | [services.gguerreiro232.com/go/checklist-seguranca-03-11](https://services.gguerreiro232.com/go/checklist-seguranca-03-11/) |
 | pihole-02-11 |  | [services.gguerreiro232.com/go/pihole-02-11](https://services.gguerreiro232.com/go/pihole-02-11/) |
@@ -44,7 +50,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [Pi-hole anti-apostas](https://youtu.be/3XPW3L0_kkk) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-casa-toda](https://services.gguerreiro232.com/go/pihole-casa-toda/) |
 | [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [services.gguerreiro232.com/go/graphicle-diagramas](https://services.gguerreiro232.com/go/graphicle-diagramas/) |
 | Go 1.27 | Reutilização de ligações HTTP/1 melhorada | [services.gguerreiro232.com/go/go-1-27-http](https://services.gguerreiro232.com/go/go-1-27-http/) |
-| Jev 1.14.0 | Agentes de IA que simulam cenários antes de escrever código | [services.gguerreiro232.com/go/jev-1-14](https://services.gguerreiro232.com/go/jev-1-14/) |
+| [Jev 1.14.0](https://youtu.be/mboTzwouzqA) | Agentes de IA que simulam cenários antes de escrever código | [services.gguerreiro232.com/go/jev-1-14](https://services.gguerreiro232.com/go/jev-1-14/) |
 | [Assistência KCU](https://youtu.be/G-tbw_vIKLc) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
 | [Claude Opus 5.5](https://youtu.be/pqD-h5cVAMA) | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
 | [Ollama: IA local no teu PC](https://youtu.be/Ri0G1sA-lzA) | Corre modelos de IA na tua placa, sem conta nem nuvem | [services.gguerreiro232.com/go/ollama-ia-local](https://services.gguerreiro232.com/go/ollama-ia-local/) |
@@ -106,7 +112,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_85 links, do mais recente para o mais antigo._
+_91 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
