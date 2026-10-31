@@ -20,6 +20,23 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| Painel do Claude Code | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [services.gguerreiro232.com/go/claude-code-painel](https://services.gguerreiro232.com/go/claude-code-painel/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-internet](https://services.gguerreiro232.com/go/piggy-lifeos-sem-internet/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-tempo](https://services.gguerreiro232.com/go/checklist-seguranca-tempo/) |
+| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido](https://services.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido/) |
+| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-bloqueio-rede](https://services.gguerreiro232.com/go/pihole-bloqueio-rede/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-banco](https://services.gguerreiro232.com/go/piggy-lifeos-sem-banco/) |
+| Overtone | Legendas que se ajustam a qualquer formato de ecrã | [services.gguerreiro232.com/go/overtone-legendas](https://services.gguerreiro232.com/go/overtone-legendas/) |
+| dontallow | O Mac deixa de interromper com o aviso de rede local | [services.gguerreiro232.com/go/dontallow-mac](https://services.gguerreiro232.com/go/dontallow-mac/) |
+| kube32 | Kubernetes a gerir microcontroladores ESP32 | [services.gguerreiro232.com/go/kube32-esp32](https://services.gguerreiro232.com/go/kube32-esp32/) |
+| doomformer | O DOOM a correr dentro de uma rede neural | [services.gguerreiro232.com/go/doomformer](https://services.gguerreiro232.com/go/doomformer/) |
+| Hindsight | Memória que os agentes de IA aprendem e guardam | [services.gguerreiro232.com/go/hindsight-memoria-ia](https://services.gguerreiro232.com/go/hindsight-memoria-ia/) |
+| Lightpanda | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
+| nesformer | Um jogo da Nintendo a correr dentro de um modelo de IA | [services.gguerreiro232.com/go/nesformer](https://services.gguerreiro232.com/go/nesformer/) |
+| OpenBot | Cada IA com o seu próprio browser e ficheiros | [services.gguerreiro232.com/go/openbot-copilotkit](https://services.gguerreiro232.com/go/openbot-copilotkit/) |
+| Catcopter | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
+| Harvey | Agente de vendas que corre na tua subscrição Claude ou Codex | [services.gguerreiro232.com/go/harvey-agente-vendas](https://services.gguerreiro232.com/go/harvey-agente-vendas/) |
+| Sketch Stadium | Um agente de IA desenha e adivinha sozinho, ao estilo Pictionary | [services.gguerreiro232.com/go/sketch-stadium](https://services.gguerreiro232.com/go/sketch-stadium/) |
 | claude-seo | Skill de SEO técnico e GEO para o Claude Code | [services.gguerreiro232.com/go/claude-seo-skill](https://services.gguerreiro232.com/go/claude-seo-skill/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-09-11](https://services.gguerreiro232.com/go/checklist-seguranca-09-11/) |
 | PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-08-11](https://services.gguerreiro232.com/go/piggy-lifeos-08-11/) |
@@ -45,7 +62,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Clova | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
 | PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
 | CADCraft | CAD e design 3D open source, em Rust puro | [services.gguerreiro232.com/go/cadcraft-rust](https://services.gguerreiro232.com/go/cadcraft-rust/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
+| [Checklist de Segurança do Servidor](https://youtu.be/EjcDRGjf9oA) | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
 | [Indigene](https://youtu.be/1ot-nOFcD5k) | Plantas nativas da tua zona, a partir da localização | [services.gguerreiro232.com/go/indigene-plantas](https://services.gguerreiro232.com/go/indigene-plantas/) |
 | [Pi-hole anti-apostas](https://youtu.be/3XPW3L0_kkk) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-casa-toda](https://services.gguerreiro232.com/go/pihole-casa-toda/) |
 | [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [services.gguerreiro232.com/go/graphicle-diagramas](https://services.gguerreiro232.com/go/graphicle-diagramas/) |
@@ -112,7 +129,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_91 links, do mais recente para o mais antigo._
+_108 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
