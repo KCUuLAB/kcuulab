@@ -66,7 +66,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [Indigene](https://youtu.be/1ot-nOFcD5k) | Plantas nativas da tua zona, a partir da localização | [services.gguerreiro232.com/go/indigene-plantas](https://services.gguerreiro232.com/go/indigene-plantas/) |
 | [Pi-hole anti-apostas](https://youtu.be/3XPW3L0_kkk) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-casa-toda](https://services.gguerreiro232.com/go/pihole-casa-toda/) |
 | [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [services.gguerreiro232.com/go/graphicle-diagramas](https://services.gguerreiro232.com/go/graphicle-diagramas/) |
-| Go 1.27 | Reutilização de ligações HTTP/1 melhorada | [services.gguerreiro232.com/go/go-1-27-http](https://services.gguerreiro232.com/go/go-1-27-http/) |
+| [Go 1.27](https://youtu.be/ChhvYqE6DTs) | Reutilização de ligações HTTP/1 melhorada | [services.gguerreiro232.com/go/go-1-27-http](https://services.gguerreiro232.com/go/go-1-27-http/) |
 | [Jev 1.14.0](https://youtu.be/mboTzwouzqA) | Agentes de IA que simulam cenários antes de escrever código | [services.gguerreiro232.com/go/jev-1-14](https://services.gguerreiro232.com/go/jev-1-14/) |
 | [Assistência KCU](https://youtu.be/G-tbw_vIKLc) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
 | [Claude Opus 5.5](https://youtu.be/pqD-h5cVAMA) | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
