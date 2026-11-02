@@ -72,8 +72,8 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | impeccable | Critério de design para agentes de código | [services.gguerreiro232.com/go/impeccable-design](https://services.gguerreiro232.com/go/impeccable-design/) |
 | claude-mem | Memória persistente para o Claude Code | [services.gguerreiro232.com/go/claude-mem](https://services.gguerreiro232.com/go/claude-mem/) |
 | Xbox 360 hack | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
-| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
-| Photocraft | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
+| [Pi-hole anti-apostas (as listas certas)](https://youtu.be/wIvhhT9KwL0) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
+| [Photocraft](https://youtu.be/0dkhCiN8LKM) | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
 | [Clova](https://youtu.be/EnM642_R1ao) | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
 | [PIGGY + LifeOS (notas em markdown)](https://youtu.be/uisZdndmbu8) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
 | [CADCraft](https://youtu.be/4U_MTbQt59Y) | CAD e design 3D open source, em Rust puro | [services.gguerreiro232.com/go/cadcraft-rust](https://services.gguerreiro232.com/go/cadcraft-rust/) |
