@@ -20,6 +20,21 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| O anúncio oficial da Anthropic | O anúncio oficial da Anthropic (12/02/2026) com os números do Claude Code: 2,5 mil milhões por ano, empresas acima de metade | [services.gguerreiro232.com/go/agente-terminal-escala](https://services.gguerreiro232.com/go/agente-terminal-escala/) |
+| tmate | Um comando que liga duas pessoas ao mesmo terminal por SSH, com modo só de leitura | [services.gguerreiro232.com/go/tmate-pair-debug](https://services.gguerreiro232.com/go/tmate-pair-debug/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-19-11](https://services.gguerreiro232.com/go/checklist-seguranca-19-11/) |
+| PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-18-11](https://services.gguerreiro232.com/go/piggy-lifeos-18-11/) |
+| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-17-11](https://services.gguerreiro232.com/go/playbook-protecao-17-11/) |
+| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-16-11](https://services.gguerreiro232.com/go/assistencia-kcu-16-11/) |
+| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-15-11](https://services.gguerreiro232.com/go/pihole-15-11/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-14-11](https://services.gguerreiro232.com/go/checklist-seguranca-14-11/) |
+| PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-13-11](https://services.gguerreiro232.com/go/piggy-lifeos-13-11/) |
+| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-12-11](https://services.gguerreiro232.com/go/playbook-protecao-12-11/) |
+| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-11-11](https://services.gguerreiro232.com/go/assistencia-kcu-11-11/) |
+| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-10-11](https://services.gguerreiro232.com/go/pihole-10-11/) |
+| GitDiagram | Troca "hub" por "diagram" no link do GitHub e vês a arquitetura do projeto | [services.gguerreiro232.com/go/gitdiagram-arquitetura](https://services.gguerreiro232.com/go/gitdiagram-arquitetura/) |
+| As 5 rondas de «melhora isto» | As 5 rondas completas de «melhora isto» a um agente de IA, da frase original à versão ilegível | [services.gguerreiro232.com/go/melhora-isto-loop](https://services.gguerreiro232.com/go/melhora-isto-loop/) |
+| Live Share | Extensão gratuita do VS Code: um cursor por pessoa, terminal e debug partilhados | [services.gguerreiro232.com/go/liveshare-pair-programming](https://services.gguerreiro232.com/go/liveshare-pair-programming/) |
 | Painel do Claude Code | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [services.gguerreiro232.com/go/claude-code-painel](https://services.gguerreiro232.com/go/claude-code-painel/) |
 | PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-internet](https://services.gguerreiro232.com/go/piggy-lifeos-sem-internet/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-tempo](https://services.gguerreiro232.com/go/checklist-seguranca-tempo/) |
@@ -59,8 +74,8 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Xbox 360 hack | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
 | Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
 | Photocraft | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
-| Clova | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
-| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
+| [Clova](https://youtu.be/EnM642_R1ao) | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
+| [PIGGY + LifeOS (notas em markdown)](https://youtu.be/uisZdndmbu8) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
 | [CADCraft](https://youtu.be/4U_MTbQt59Y) | CAD e design 3D open source, em Rust puro | [services.gguerreiro232.com/go/cadcraft-rust](https://services.gguerreiro232.com/go/cadcraft-rust/) |
 | [Checklist de Segurança do Servidor](https://youtu.be/EjcDRGjf9oA) | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
 | [Indigene](https://youtu.be/1ot-nOFcD5k) | Plantas nativas da tua zona, a partir da localização | [services.gguerreiro232.com/go/indigene-plantas](https://services.gguerreiro232.com/go/indigene-plantas/) |
@@ -129,7 +144,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_108 links, do mais recente para o mais antigo._
+_123 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
