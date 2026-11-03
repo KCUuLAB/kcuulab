@@ -68,7 +68,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-escudo](https://services.gguerreiro232.com/go/playbook-protecao-escudo/) |
 | Knowledge Work Plugins | 11 plugins open source da Anthropic para o Claude Cowork | [services.gguerreiro232.com/go/claude-cowork-plugins](https://services.gguerreiro232.com/go/claude-cowork-plugins/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo](https://services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo/) |
-| Superpowers | Metodologia completa para o Claude Code antes de escrever código | [services.gguerreiro232.com/go/claude-superpowers](https://services.gguerreiro232.com/go/claude-superpowers/) |
+| [Superpowers](https://youtu.be/rn3H2I45zKA) | Metodologia completa para o Claude Code antes de escrever código | [services.gguerreiro232.com/go/claude-superpowers](https://services.gguerreiro232.com/go/claude-superpowers/) |
 | security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [services.gguerreiro232.com/go/security-audit-cloudflare](https://services.gguerreiro232.com/go/security-audit-cloudflare/) |
 | impeccable | Critério de design para agentes de código | [services.gguerreiro232.com/go/impeccable-design](https://services.gguerreiro232.com/go/impeccable-design/) |
 | claude-mem | Memória persistente para o Claude Code | [services.gguerreiro232.com/go/claude-mem](https://services.gguerreiro232.com/go/claude-mem/) |
