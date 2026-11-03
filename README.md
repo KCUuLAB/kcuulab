@@ -33,6 +33,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-11-11](https://services.gguerreiro232.com/go/assistencia-kcu-11-11/) |
 | Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-10-11](https://services.gguerreiro232.com/go/pihole-10-11/) |
 | GitDiagram | Troca "hub" por "diagram" no link do GitHub e vês a arquitetura do projeto | [services.gguerreiro232.com/go/gitdiagram-arquitetura](https://services.gguerreiro232.com/go/gitdiagram-arquitetura/) |
+| As 5 rondas de «melhora isto» ao código | As 5 rondas completas de «melhora isto» a um agente de código, de def soma(a, b) a 7 classes | [services.gguerreiro232.com/go/melhora-codigo-100x](https://services.gguerreiro232.com/go/melhora-codigo-100x/) |
 | As 5 rondas de «melhora isto» | As 5 rondas completas de «melhora isto» a um agente de IA, da frase original à versão ilegível | [services.gguerreiro232.com/go/melhora-isto-loop](https://services.gguerreiro232.com/go/melhora-isto-loop/) |
 | Live Share | Extensão gratuita do VS Code: um cursor por pessoa, terminal e debug partilhados | [services.gguerreiro232.com/go/liveshare-pair-programming](https://services.gguerreiro232.com/go/liveshare-pair-programming/) |
 | Painel do Claude Code | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [services.gguerreiro232.com/go/claude-code-painel](https://services.gguerreiro232.com/go/claude-code-painel/) |
@@ -71,7 +72,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [services.gguerreiro232.com/go/security-audit-cloudflare](https://services.gguerreiro232.com/go/security-audit-cloudflare/) |
 | impeccable | Critério de design para agentes de código | [services.gguerreiro232.com/go/impeccable-design](https://services.gguerreiro232.com/go/impeccable-design/) |
 | claude-mem | Memória persistente para o Claude Code | [services.gguerreiro232.com/go/claude-mem](https://services.gguerreiro232.com/go/claude-mem/) |
-| Xbox 360 hack | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
+| [Xbox 360 hack](https://youtu.be/FPiSSUijk88) | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
 | [Pi-hole anti-apostas (as listas certas)](https://youtu.be/wIvhhT9KwL0) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
 | [Photocraft](https://youtu.be/0dkhCiN8LKM) | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
 | [Clova](https://youtu.be/EnM642_R1ao) | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
@@ -144,7 +145,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_123 links, do mais recente para o mais antigo._
+_124 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
