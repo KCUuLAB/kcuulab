@@ -20,6 +20,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| deepseek-v41 |  | [services.gguerreiro232.com/go/deepseek-v41](https://services.gguerreiro232.com/go/deepseek-v41/) |
 | O anúncio oficial da Anthropic | O anúncio oficial da Anthropic (12/02/2026) com os números do Claude Code: 2,5 mil milhões por ano, empresas acima de metade | [services.gguerreiro232.com/go/agente-terminal-escala](https://services.gguerreiro232.com/go/agente-terminal-escala/) |
 | tmate | Um comando que liga duas pessoas ao mesmo terminal por SSH, com modo só de leitura | [services.gguerreiro232.com/go/tmate-pair-debug](https://services.gguerreiro232.com/go/tmate-pair-debug/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-19-11](https://services.gguerreiro232.com/go/checklist-seguranca-19-11/) |
@@ -145,7 +146,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_124 links, do mais recente para o mais antigo._
+_125 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
