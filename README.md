@@ -52,7 +52,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | nesformer | Um jogo da Nintendo a correr dentro de um modelo de IA | [services.gguerreiro232.com/go/nesformer](https://services.gguerreiro232.com/go/nesformer/) |
 | OpenBot | Cada IA com o seu próprio browser e ficheiros | [services.gguerreiro232.com/go/openbot-copilotkit](https://services.gguerreiro232.com/go/openbot-copilotkit/) |
 | Catcopter | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
-| Harvey | Agente de vendas que corre na tua subscrição Claude ou Codex | [services.gguerreiro232.com/go/harvey-agente-vendas](https://services.gguerreiro232.com/go/harvey-agente-vendas/) |
+| [Harvey](https://youtu.be/ULN32dZ6SQg) | Agente de vendas que corre na tua subscrição Claude ou Codex | [services.gguerreiro232.com/go/harvey-agente-vendas](https://services.gguerreiro232.com/go/harvey-agente-vendas/) |
 | [Sketch Stadium](https://youtu.be/1Uu4I-Z4zW4) | Um agente de IA desenha e adivinha sozinho, ao estilo Pictionary | [services.gguerreiro232.com/go/sketch-stadium](https://services.gguerreiro232.com/go/sketch-stadium/) |
 | claude-seo | Skill de SEO técnico e GEO para o Claude Code | [services.gguerreiro232.com/go/claude-seo-skill](https://services.gguerreiro232.com/go/claude-seo-skill/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-09-11](https://services.gguerreiro232.com/go/checklist-seguranca-09-11/) |
