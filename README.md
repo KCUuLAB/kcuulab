@@ -35,7 +35,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-11-11](https://services.gguerreiro232.com/go/assistencia-kcu-11-11/) |
 | Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-10-11](https://services.gguerreiro232.com/go/pihole-10-11/) |
 | GitDiagram | Troca "hub" por "diagram" no link do GitHub e vês a arquitetura do projeto | [services.gguerreiro232.com/go/gitdiagram-arquitetura](https://services.gguerreiro232.com/go/gitdiagram-arquitetura/) |
-| As 5 rondas de «melhora isto» ao código | As 5 rondas completas de «melhora isto» a um agente de código, de def soma(a, b) a 7 classes | [services.gguerreiro232.com/go/melhora-codigo-100x](https://services.gguerreiro232.com/go/melhora-codigo-100x/) |
+| [As 5 rondas de «melhora isto» ao código](https://youtu.be/5Lq6bR6ZPBE) | As 5 rondas completas de «melhora isto» a um agente de código, de def soma(a, b) a 7 classes | [services.gguerreiro232.com/go/melhora-codigo-100x](https://services.gguerreiro232.com/go/melhora-codigo-100x/) |
 | [As 5 rondas de «melhora isto»](https://youtu.be/VCoS-vunghE) | As 5 rondas completas de «melhora isto» a um agente de IA, da frase original à versão ilegível | [services.gguerreiro232.com/go/melhora-isto-loop](https://services.gguerreiro232.com/go/melhora-isto-loop/) |
 | [Live Share](https://youtu.be/LLeQVs4q11Q) | Extensão gratuita do VS Code: um cursor por pessoa, terminal e debug partilhados | [services.gguerreiro232.com/go/liveshare-pair-programming](https://services.gguerreiro232.com/go/liveshare-pair-programming/) |
 | [Painel do Claude Code](https://youtu.be/-_V6eEoxdtg) | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [services.gguerreiro232.com/go/claude-code-painel](https://services.gguerreiro232.com/go/claude-code-painel/) |
@@ -66,7 +66,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | pihole-02-11 |  | [services.gguerreiro232.com/go/pihole-02-11](https://services.gguerreiro232.com/go/pihole-02-11/) |
 | piggy-lifeos-01-11 |  | [services.gguerreiro232.com/go/piggy-lifeos-01-11](https://services.gguerreiro232.com/go/piggy-lifeos-01-11/) |
 | playbook-protecao-31-10 |  | [services.gguerreiro232.com/go/playbook-protecao-31-10](https://services.gguerreiro232.com/go/playbook-protecao-31-10/) |
-| Andrej Karpathy Skills | Um CLAUDE.md com as regras do Karpathy para agentes de código | [services.gguerreiro232.com/go/claude-md-karpathy](https://services.gguerreiro232.com/go/claude-md-karpathy/) |
+| [Andrej Karpathy Skills](https://youtu.be/WjAwiVp0P-g) | Um CLAUDE.md com as regras do Karpathy para agentes de código | [services.gguerreiro232.com/go/claude-md-karpathy](https://services.gguerreiro232.com/go/claude-md-karpathy/) |
 | Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-escudo](https://services.gguerreiro232.com/go/playbook-protecao-escudo/) |
 | [Knowledge Work Plugins](https://youtu.be/bNZPEHVEgzM) | 11 plugins open source da Anthropic para o Claude Cowork | [services.gguerreiro232.com/go/claude-cowork-plugins](https://services.gguerreiro232.com/go/claude-cowork-plugins/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo](https://services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo/) |
