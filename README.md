@@ -46,7 +46,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-banco](https://services.gguerreiro232.com/go/piggy-lifeos-sem-banco/) |
 | Overtone | Legendas que se ajustam a qualquer formato de ecrã | [services.gguerreiro232.com/go/overtone-legendas](https://services.gguerreiro232.com/go/overtone-legendas/) |
 | dontallow | O Mac deixa de interromper com o aviso de rede local | [services.gguerreiro232.com/go/dontallow-mac](https://services.gguerreiro232.com/go/dontallow-mac/) |
-| kube32 | Kubernetes a gerir microcontroladores ESP32 | [services.gguerreiro232.com/go/kube32-esp32](https://services.gguerreiro232.com/go/kube32-esp32/) |
+| [kube32](https://youtu.be/SU-mBzw5xC4) | Kubernetes a gerir microcontroladores ESP32 | [services.gguerreiro232.com/go/kube32-esp32](https://services.gguerreiro232.com/go/kube32-esp32/) |
 | [doomformer](https://youtu.be/e8Lw-RnvPlg) | O DOOM a correr dentro de uma rede neural | [services.gguerreiro232.com/go/doomformer](https://services.gguerreiro232.com/go/doomformer/) |
 | [Hindsight](https://youtu.be/Sp3nOOE9GAM) | Memória que os agentes de IA aprendem e guardam | [services.gguerreiro232.com/go/hindsight-memoria-ia](https://services.gguerreiro232.com/go/hindsight-memoria-ia/) |
 | [Lightpanda](https://youtu.be/jhyANwJYDcs) | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
