@@ -20,6 +20,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| Kimi K3.1 Pro | Página oficial do Kimi K3.1 Pro: modelo de pesos abertos com janela de 1M de tokens. | [services.gguerreiro232.com/go/kimi-k31](https://services.gguerreiro232.com/go/kimi-k31/) |
 | deepseek-v41 |  | [services.gguerreiro232.com/go/deepseek-v41](https://services.gguerreiro232.com/go/deepseek-v41/) |
 | O anúncio oficial da Anthropic | O anúncio oficial da Anthropic (12/02/2026) com os números do Claude Code: 2,5 mil milhões por ano, empresas acima de metade | [services.gguerreiro232.com/go/agente-terminal-escala](https://services.gguerreiro232.com/go/agente-terminal-escala/) |
 | tmate | Um comando que liga duas pessoas ao mesmo terminal por SSH, com modo só de leitura | [services.gguerreiro232.com/go/tmate-pair-debug](https://services.gguerreiro232.com/go/tmate-pair-debug/) |
@@ -51,7 +52,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | Lightpanda | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
 | nesformer | Um jogo da Nintendo a correr dentro de um modelo de IA | [services.gguerreiro232.com/go/nesformer](https://services.gguerreiro232.com/go/nesformer/) |
 | OpenBot | Cada IA com o seu próprio browser e ficheiros | [services.gguerreiro232.com/go/openbot-copilotkit](https://services.gguerreiro232.com/go/openbot-copilotkit/) |
-| [Catcopter](https://youtu.be/b03IUZaai5w) | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
+| Catcopter | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
 | [Harvey](https://youtu.be/ULN32dZ6SQg) | Agente de vendas que corre na tua subscrição Claude ou Codex | [services.gguerreiro232.com/go/harvey-agente-vendas](https://services.gguerreiro232.com/go/harvey-agente-vendas/) |
 | [Sketch Stadium](https://youtu.be/1Uu4I-Z4zW4) | Um agente de IA desenha e adivinha sozinho, ao estilo Pictionary | [services.gguerreiro232.com/go/sketch-stadium](https://services.gguerreiro232.com/go/sketch-stadium/) |
 | claude-seo | Skill de SEO técnico e GEO para o Claude Code | [services.gguerreiro232.com/go/claude-seo-skill](https://services.gguerreiro232.com/go/claude-seo-skill/) |
@@ -67,7 +68,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | playbook-protecao-31-10 |  | [services.gguerreiro232.com/go/playbook-protecao-31-10](https://services.gguerreiro232.com/go/playbook-protecao-31-10/) |
 | Andrej Karpathy Skills | Um CLAUDE.md com as regras do Karpathy para agentes de código | [services.gguerreiro232.com/go/claude-md-karpathy](https://services.gguerreiro232.com/go/claude-md-karpathy/) |
 | Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-escudo](https://services.gguerreiro232.com/go/playbook-protecao-escudo/) |
-| Knowledge Work Plugins | 11 plugins open source da Anthropic para o Claude Cowork | [services.gguerreiro232.com/go/claude-cowork-plugins](https://services.gguerreiro232.com/go/claude-cowork-plugins/) |
+| [Knowledge Work Plugins](https://youtu.be/bNZPEHVEgzM) | 11 plugins open source da Anthropic para o Claude Cowork | [services.gguerreiro232.com/go/claude-cowork-plugins](https://services.gguerreiro232.com/go/claude-cowork-plugins/) |
 | Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo](https://services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo/) |
 | [Superpowers](https://youtu.be/rn3H2I45zKA) | Metodologia completa para o Claude Code antes de escrever código | [services.gguerreiro232.com/go/claude-superpowers](https://services.gguerreiro232.com/go/claude-superpowers/) |
 | security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [services.gguerreiro232.com/go/security-audit-cloudflare](https://services.gguerreiro232.com/go/security-audit-cloudflare/) |
@@ -146,7 +147,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
 
-_125 links, do mais recente para o mais antigo._
+_126 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
