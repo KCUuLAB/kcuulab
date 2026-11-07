@@ -49,7 +49,7 @@ Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto 
 | kube32 | Kubernetes a gerir microcontroladores ESP32 | [services.gguerreiro232.com/go/kube32-esp32](https://services.gguerreiro232.com/go/kube32-esp32/) |
 | doomformer | O DOOM a correr dentro de uma rede neural | [services.gguerreiro232.com/go/doomformer](https://services.gguerreiro232.com/go/doomformer/) |
 | Hindsight | Memória que os agentes de IA aprendem e guardam | [services.gguerreiro232.com/go/hindsight-memoria-ia](https://services.gguerreiro232.com/go/hindsight-memoria-ia/) |
-| Lightpanda | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
+| [Lightpanda](https://youtu.be/jhyANwJYDcs) | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
 | [nesformer](https://youtu.be/Yc4jdQx6Y3w) | Um jogo da Nintendo a correr dentro de um modelo de IA | [services.gguerreiro232.com/go/nesformer](https://services.gguerreiro232.com/go/nesformer/) |
 | OpenBot | Cada IA com o seu próprio browser e ficheiros | [services.gguerreiro232.com/go/openbot-copilotkit](https://services.gguerreiro232.com/go/openbot-copilotkit/) |
 | [Catcopter](https://youtu.be/b03IUZaai5w) | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
