@@ -1,6 +1,6 @@
 name: Atualizar README
 
-# A tabela "Links dos vídeos" vem de services.gguerreiro232.com/go/links.json.
+# A tabela "Links dos vídeos" vem de lab.gguerreiro232.com/go/links.json.
 # Corre todos os dias, quando o script muda e quando a publicação de um vídeo a chama.
 on:
   schedule:

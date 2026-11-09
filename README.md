@@ -15,146 +15,147 @@ Os vídeos estão organizados no canal por playlists: [APPS](https://www.youtube
 
 ## 🎬 Links dos vídeos
 
-Cada link passa por `services.gguerreiro232.com/go/<nome>` e leva-te ao projeto ou ao produto do vídeo. Esta tabela atualiza-se sozinha todos os dias.
+Cada link passa por `lab.gguerreiro232.com/go/<nome>` e leva-te ao projeto ou ao produto do vídeo. Esta tabela atualiza-se sozinha todos os dias.
 
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
-| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-short-14-11](https://services.gguerreiro232.com/go/pihole-short-14-11/) |
-| Claude Code | Agente de código da Anthropic que corrige bugs a partir da descrição do problema | [services.gguerreiro232.com/go/100-2026-11-07-claude](https://services.gguerreiro232.com/go/100-2026-11-07-claude/) |
-| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-portas-09-11](https://services.gguerreiro232.com/go/playbook-portas-09-11/) |
-| Kimi K3.1 Pro | Página oficial do Kimi K3.1 Pro: modelo de pesos abertos com janela de 1M de tokens. | [services.gguerreiro232.com/go/kimi-k31](https://services.gguerreiro232.com/go/kimi-k31/) |
-| deepseek-v41 |  | [services.gguerreiro232.com/go/deepseek-v41](https://services.gguerreiro232.com/go/deepseek-v41/) |
-| [O anúncio oficial da Anthropic](https://youtu.be/HTolSbDBpWA) | O anúncio oficial da Anthropic (12/02/2026) com os números do Claude Code: 2,5 mil milhões por ano, empresas acima de metade | [services.gguerreiro232.com/go/agente-terminal-escala](https://services.gguerreiro232.com/go/agente-terminal-escala/) |
-| [tmate](https://youtu.be/CG-ruWHtwvQ) | Um comando que liga duas pessoas ao mesmo terminal por SSH, com modo só de leitura | [services.gguerreiro232.com/go/tmate-pair-debug](https://services.gguerreiro232.com/go/tmate-pair-debug/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-19-11](https://services.gguerreiro232.com/go/checklist-seguranca-19-11/) |
-| PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-18-11](https://services.gguerreiro232.com/go/piggy-lifeos-18-11/) |
-| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-17-11](https://services.gguerreiro232.com/go/playbook-protecao-17-11/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-16-11](https://services.gguerreiro232.com/go/assistencia-kcu-16-11/) |
-| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-15-11](https://services.gguerreiro232.com/go/pihole-15-11/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-14-11](https://services.gguerreiro232.com/go/checklist-seguranca-14-11/) |
-| PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-13-11](https://services.gguerreiro232.com/go/piggy-lifeos-13-11/) |
-| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-12-11](https://services.gguerreiro232.com/go/playbook-protecao-12-11/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-11-11](https://services.gguerreiro232.com/go/assistencia-kcu-11-11/) |
-| Pi-hole anti-apostas | Produto KCU Services | [services.gguerreiro232.com/go/pihole-10-11](https://services.gguerreiro232.com/go/pihole-10-11/) |
-| GitDiagram | Troca "hub" por "diagram" no link do GitHub e vês a arquitetura do projeto | [services.gguerreiro232.com/go/gitdiagram-arquitetura](https://services.gguerreiro232.com/go/gitdiagram-arquitetura/) |
-| [As 5 rondas de «melhora isto» ao código](https://youtu.be/5Lq6bR6ZPBE) | As 5 rondas completas de «melhora isto» a um agente de código, de def soma(a, b) a 7 classes | [services.gguerreiro232.com/go/melhora-codigo-100x](https://services.gguerreiro232.com/go/melhora-codigo-100x/) |
-| [As 5 rondas de «melhora isto»](https://youtu.be/VCoS-vunghE) | As 5 rondas completas de «melhora isto» a um agente de IA, da frase original à versão ilegível | [services.gguerreiro232.com/go/melhora-isto-loop](https://services.gguerreiro232.com/go/melhora-isto-loop/) |
-| [Live Share](https://youtu.be/LLeQVs4q11Q) | Extensão gratuita do VS Code: um cursor por pessoa, terminal e debug partilhados | [services.gguerreiro232.com/go/liveshare-pair-programming](https://services.gguerreiro232.com/go/liveshare-pair-programming/) |
-| [Painel do Claude Code](https://youtu.be/-_V6eEoxdtg) | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [services.gguerreiro232.com/go/claude-code-painel](https://services.gguerreiro232.com/go/claude-code-painel/) |
-| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-internet](https://services.gguerreiro232.com/go/piggy-lifeos-sem-internet/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-tempo](https://services.gguerreiro232.com/go/checklist-seguranca-tempo/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido](https://services.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido/) |
-| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-bloqueio-rede](https://services.gguerreiro232.com/go/pihole-bloqueio-rede/) |
-| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-banco](https://services.gguerreiro232.com/go/piggy-lifeos-sem-banco/) |
-| [Overtone](https://youtu.be/7X-cmyDUj8k) | Legendas que se ajustam a qualquer formato de ecrã | [services.gguerreiro232.com/go/overtone-legendas](https://services.gguerreiro232.com/go/overtone-legendas/) |
-| [dontallow](https://youtu.be/AfOILmXOVZM) | O Mac deixa de interromper com o aviso de rede local | [services.gguerreiro232.com/go/dontallow-mac](https://services.gguerreiro232.com/go/dontallow-mac/) |
-| [kube32](https://youtu.be/SU-mBzw5xC4) | Kubernetes a gerir microcontroladores ESP32 | [services.gguerreiro232.com/go/kube32-esp32](https://services.gguerreiro232.com/go/kube32-esp32/) |
-| [doomformer](https://youtu.be/e8Lw-RnvPlg) | O DOOM a correr dentro de uma rede neural | [services.gguerreiro232.com/go/doomformer](https://services.gguerreiro232.com/go/doomformer/) |
-| [Hindsight](https://youtu.be/Sp3nOOE9GAM) | Memória que os agentes de IA aprendem e guardam | [services.gguerreiro232.com/go/hindsight-memoria-ia](https://services.gguerreiro232.com/go/hindsight-memoria-ia/) |
-| [Lightpanda](https://youtu.be/jhyANwJYDcs) | Browser feito só para agentes de IA | [services.gguerreiro232.com/go/lightpanda-browser](https://services.gguerreiro232.com/go/lightpanda-browser/) |
-| [nesformer](https://youtu.be/Yc4jdQx6Y3w) | Um jogo da Nintendo a correr dentro de um modelo de IA | [services.gguerreiro232.com/go/nesformer](https://services.gguerreiro232.com/go/nesformer/) |
-| [OpenBot](https://youtu.be/f4MTkmo6dsM) | Cada IA com o seu próprio browser e ficheiros | [services.gguerreiro232.com/go/openbot-copilotkit](https://services.gguerreiro232.com/go/openbot-copilotkit/) |
-| [Catcopter](https://youtu.be/b03IUZaai5w) | Jogo multijogador de gatos voadores no browser | [services.gguerreiro232.com/go/catcopter](https://services.gguerreiro232.com/go/catcopter/) |
-| [Harvey](https://youtu.be/ULN32dZ6SQg) | Agente de vendas que corre na tua subscrição Claude ou Codex | [services.gguerreiro232.com/go/harvey-agente-vendas](https://services.gguerreiro232.com/go/harvey-agente-vendas/) |
-| [Sketch Stadium](https://youtu.be/1Uu4I-Z4zW4) | Um agente de IA desenha e adivinha sozinho, ao estilo Pictionary | [services.gguerreiro232.com/go/sketch-stadium](https://services.gguerreiro232.com/go/sketch-stadium/) |
-| claude-seo | Skill de SEO técnico e GEO para o Claude Code | [services.gguerreiro232.com/go/claude-seo-skill](https://services.gguerreiro232.com/go/claude-seo-skill/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-09-11](https://services.gguerreiro232.com/go/checklist-seguranca-09-11/) |
-| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-08-11](https://services.gguerreiro232.com/go/piggy-lifeos-08-11/) |
-| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-07-11](https://services.gguerreiro232.com/go/playbook-protecao-07-11/) |
-| Assistência KCU | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-06-11](https://services.gguerreiro232.com/go/assistencia-kcu-06-11/) |
-| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-05-11](https://services.gguerreiro232.com/go/pihole-05-11/) |
-| assistencia-kcu-04-11 |  | [services.gguerreiro232.com/go/assistencia-kcu-04-11](https://services.gguerreiro232.com/go/assistencia-kcu-04-11/) |
-| checklist-seguranca-03-11 |  | [services.gguerreiro232.com/go/checklist-seguranca-03-11](https://services.gguerreiro232.com/go/checklist-seguranca-03-11/) |
-| pihole-02-11 |  | [services.gguerreiro232.com/go/pihole-02-11](https://services.gguerreiro232.com/go/pihole-02-11/) |
-| piggy-lifeos-01-11 |  | [services.gguerreiro232.com/go/piggy-lifeos-01-11](https://services.gguerreiro232.com/go/piggy-lifeos-01-11/) |
-| playbook-protecao-31-10 |  | [services.gguerreiro232.com/go/playbook-protecao-31-10](https://services.gguerreiro232.com/go/playbook-protecao-31-10/) |
-| [Andrej Karpathy Skills](https://youtu.be/WjAwiVp0P-g) | Um CLAUDE.md com as regras do Karpathy para agentes de código | [services.gguerreiro232.com/go/claude-md-karpathy](https://services.gguerreiro232.com/go/claude-md-karpathy/) |
-| Playbook de Proteção | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-escudo](https://services.gguerreiro232.com/go/playbook-protecao-escudo/) |
-| [Knowledge Work Plugins](https://youtu.be/bNZPEHVEgzM) | 11 plugins open source da Anthropic para o Claude Cowork | [services.gguerreiro232.com/go/claude-cowork-plugins](https://services.gguerreiro232.com/go/claude-cowork-plugins/) |
-| Checklist de Segurança do Servidor | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo](https://services.gguerreiro232.com/go/checklist-seguranca-passo-a-passo/) |
-| [Superpowers](https://youtu.be/rn3H2I45zKA) | Metodologia completa para o Claude Code antes de escrever código | [services.gguerreiro232.com/go/claude-superpowers](https://services.gguerreiro232.com/go/claude-superpowers/) |
-| security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [services.gguerreiro232.com/go/security-audit-cloudflare](https://services.gguerreiro232.com/go/security-audit-cloudflare/) |
-| impeccable | Critério de design para agentes de código | [services.gguerreiro232.com/go/impeccable-design](https://services.gguerreiro232.com/go/impeccable-design/) |
-| claude-mem | Memória persistente para o Claude Code | [services.gguerreiro232.com/go/claude-mem](https://services.gguerreiro232.com/go/claude-mem/) |
-| [Xbox 360 hack](https://youtu.be/FPiSSUijk88) | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [services.gguerreiro232.com/go/xbox-360-glitch](https://services.gguerreiro232.com/go/xbox-360-glitch/) |
-| [Pi-hole anti-apostas (as listas certas)](https://youtu.be/wIvhhT9KwL0) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-lista-apostas](https://services.gguerreiro232.com/go/pihole-lista-apostas/) |
-| [Photocraft](https://youtu.be/0dkhCiN8LKM) | Editor de imagens open source em Rust puro | [services.gguerreiro232.com/go/photocraft-rust](https://services.gguerreiro232.com/go/photocraft-rust/) |
-| [Clova](https://youtu.be/EnM642_R1ao) | Um endereço de email por empresa, trancado no primeiro remetente | [services.gguerreiro232.com/go/clova-email](https://services.gguerreiro232.com/go/clova-email/) |
-| [PIGGY + LifeOS (notas em markdown)](https://youtu.be/uisZdndmbu8) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://services.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
-| [CADCraft](https://youtu.be/4U_MTbQt59Y) | CAD e design 3D open source, em Rust puro | [services.gguerreiro232.com/go/cadcraft-rust](https://services.gguerreiro232.com/go/cadcraft-rust/) |
-| [Checklist de Segurança do Servidor](https://youtu.be/EjcDRGjf9oA) | Produto KCU Services | [services.gguerreiro232.com/go/checklist-seguranca-servidor](https://services.gguerreiro232.com/go/checklist-seguranca-servidor/) |
-| [Indigene](https://youtu.be/1ot-nOFcD5k) | Plantas nativas da tua zona, a partir da localização | [services.gguerreiro232.com/go/indigene-plantas](https://services.gguerreiro232.com/go/indigene-plantas/) |
-| [Pi-hole anti-apostas](https://youtu.be/3XPW3L0_kkk) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-casa-toda](https://services.gguerreiro232.com/go/pihole-casa-toda/) |
-| [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [services.gguerreiro232.com/go/graphicle-diagramas](https://services.gguerreiro232.com/go/graphicle-diagramas/) |
-| [Go 1.27](https://youtu.be/ChhvYqE6DTs) | Reutilização de ligações HTTP/1 melhorada | [services.gguerreiro232.com/go/go-1-27-http](https://services.gguerreiro232.com/go/go-1-27-http/) |
-| [Jev 1.14.0](https://youtu.be/mboTzwouzqA) | Agentes de IA que simulam cenários antes de escrever código | [services.gguerreiro232.com/go/jev-1-14](https://services.gguerreiro232.com/go/jev-1-14/) |
-| [Assistência KCU](https://youtu.be/G-tbw_vIKLc) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia-kcu-video](https://services.gguerreiro232.com/go/assistencia-kcu-video/) |
-| [Claude Opus 5.5](https://youtu.be/pqD-h5cVAMA) | Modelo de topo da Anthropic, 40% mais barato | [services.gguerreiro232.com/go/claude-opus-5-5](https://services.gguerreiro232.com/go/claude-opus-5-5/) |
-| [Ollama: IA local no teu PC](https://youtu.be/Ri0G1sA-lzA) | Corre modelos de IA na tua placa, sem conta nem nuvem | [services.gguerreiro232.com/go/ollama-ia-local](https://services.gguerreiro232.com/go/ollama-ia-local/) |
-| [PIGGY + LifeOS (sem mensalidade)](https://youtu.be/9u9JfPvPp00) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://services.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
-| [Claude Code Enterprise](https://youtu.be/W-9jfv8ViLA) | Agente de terminal da Anthropic para equipas | [services.gguerreiro232.com/go/claude-code-enterprise](https://services.gguerreiro232.com/go/claude-code-enterprise/) |
-| [Petal](https://youtu.be/LDILC0xqk8E) | Pair programming open source, um cursor por pessoa | [services.gguerreiro232.com/go/petal-pair-programming](https://services.gguerreiro232.com/go/petal-pair-programming/) |
-| [Duck Pond](https://youtu.be/R7o--RjqBL4) | Lagoa de patos com som sintetizado ao vivo | [services.gguerreiro232.com/go/duck-pond](https://services.gguerreiro232.com/go/duck-pond/) |
-| [Playbook de Proteção (backup antes de mexer)](https://youtu.be/Spmu_oIUYCM) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-backup-rollback](https://services.gguerreiro232.com/go/playbook-backup-rollback/) |
-| [Claude Sonnet 5.5](https://youtu.be/dWkfp1kQPQY) | Modelo da Anthropic, mais rápido e mais barato | [services.gguerreiro232.com/go/claude-sonnet-5-5](https://services.gguerreiro232.com/go/claude-sonnet-5-5/) |
-| 3 dicas de produtividade com IA | Serviços de IA | [services.gguerreiro232.com/go/3-dicas-produtividade-ia](https://services.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
-| Antes/Depois: sem Claude vs com Claude | Agente de código no terminal | [services.gguerreiro232.com/go/antes-depois-claude](https://services.gguerreiro232.com/go/antes-depois-claude/) |
-| Top 5 repos para IA local | Ollama, n8n, Pi-hole, Proxmox e mais um | [services.gguerreiro232.com/go/top-5-repos-ia-local](https://services.gguerreiro232.com/go/top-5-repos-ia-local/) |
-| Tour do meu homelab | Proxmox, Ollama, n8n, Pi-hole e backups numa máquina | [services.gguerreiro232.com/go/setup-homelab-tour](https://services.gguerreiro232.com/go/setup-homelab-tour/) |
-| Playbook de Proteção (unboxing) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-protecao-unboxing](https://services.gguerreiro232.com/go/playbook-protecao-unboxing/) |
-| DeepSeek V3 vs Claude | Custo-benefício para automações e homelab | [services.gguerreiro232.com/go/deepseek-v3-vs-claude](https://services.gguerreiro232.com/go/deepseek-v3-vs-claude/) |
-| Pi-hole: bloqueador de domínios | Produto KCU Services | [services.gguerreiro232.com/go/pihole-bloqueador-dns](https://services.gguerreiro232.com/go/pihole-bloqueador-dns/) |
-| Ollama + Claude Code | IA local no Claude Code, sem cloud | [services.gguerreiro232.com/go/ollama-claude-code](https://services.gguerreiro232.com/go/ollama-claude-code/) |
-| Security-Audit-Skill | Auditoria de segurança de código em 6 fases | [services.gguerreiro232.com/go/security-audit-skill](https://services.gguerreiro232.com/go/security-audit-skill/) |
-| REA: engenharia reversa com IA | IA a abrir apps fechadas com Ghidra e Hopper | [services.gguerreiro232.com/go/rea-engenharia-reversa](https://services.gguerreiro232.com/go/rea-engenharia-reversa/) |
-| Blender, o programa do Óscar | O programa open source onde fizeram o Flow, Óscar de animação 2025: onde o descarregar e por onde começar | [services.gguerreiro232.com/go/blender](https://services.gguerreiro232.com/go/blender/) |
-| Servidor em casa com modelo local | O guia: seu servidor lê documentos, organiza fotos e controla a casa, sem nuvem | [services.gguerreiro232.com/go/servidor-casa](https://services.gguerreiro232.com/go/servidor-casa/) |
-| Claude Code Local | Claude Code sem internet (via Ollama) | [services.gguerreiro232.com/go/claude-code-local](https://services.gguerreiro232.com/go/claude-code-local/) |
-| O meu homelab | O que corre no homelab do KCUuLab: um mini PC, Proxmox e 9 máquinas | [services.gguerreiro232.com/go/homelab](https://services.gguerreiro232.com/go/homelab/) |
-| [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [services.gguerreiro232.com/go/hermes](https://services.gguerreiro232.com/go/hermes/) |
-| 5 apps no servidor em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf e Tailscale | [services.gguerreiro232.com/go/5-apps-em-casa](https://services.gguerreiro232.com/go/5-apps-em-casa/) |
-| 5 jogos com segredos | Histórias e vídeos do KCUuLab | [services.gguerreiro232.com/go/jogos-segredos](https://services.gguerreiro232.com/go/jogos-segredos/) |
-| Wi-Fi lento à noite | Guias de rede do KCUuLab | [services.gguerreiro232.com/go/wifi-lento](https://services.gguerreiro232.com/go/wifi-lento/) |
-| 5 atalhos de teclado | Truques e guias do KCUuLab | [services.gguerreiro232.com/go/atalhos-teclado](https://services.gguerreiro232.com/go/atalhos-teclado/) |
-| Chatterbox | IA que clona a voz | [services.gguerreiro232.com/go/chatterbox](https://services.gguerreiro232.com/go/chatterbox/) |
-| umbrelOS 2.0 | Servidor de casa com cara de Apple | [services.gguerreiro232.com/go/umbrel-2-0](https://services.gguerreiro232.com/go/umbrel-2-0/) |
-| [Pi-hole anti-apostas](https://youtu.be/OJaOaFvmLL4) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-apostas](https://services.gguerreiro232.com/go/pihole-apostas/) |
-| PIGGY + LifeOS | Produto KCU Services | [services.gguerreiro232.com/go/piggy-lifeos](https://services.gguerreiro232.com/go/piggy-lifeos/) |
-| [Playbook de Proteção (servidor em casa)](https://youtu.be/EPH0nOZHqUo) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-servidor](https://services.gguerreiro232.com/go/playbook-servidor/) |
-| Empresa de 13 Agentes | Serviços de IA | [services.gguerreiro232.com/go/empresa-13-agentes](https://services.gguerreiro232.com/go/empresa-13-agentes/) |
-| 5 repositórios do GitHub | Tabela de links dos vídeos do KCUuLAB | [services.gguerreiro232.com/go/5-repos-github](https://services.gguerreiro232.com/go/5-repos-github/) |
-| Craft (alternativas grátis à Adobe) | Photocraft, Filmcraft e Artcraft: alternativa open source à Adobe, em Rust | [services.gguerreiro232.com/go/craft-adobe-gratis](https://services.gguerreiro232.com/go/craft-adobe-gratis/) |
-| 3 coisas do servidor em casa | Guia para não perderes tudo: backups no Proxmox | [services.gguerreiro232.com/go/3-coisas-servidor](https://services.gguerreiro232.com/go/3-coisas-servidor/) |
-| Backups no Proxmox (Parte 2) | Guia oficial de backups do Proxmox | [services.gguerreiro232.com/go/backups-parte-2](https://services.gguerreiro232.com/go/backups-parte-2/) |
-| Ruflo | Agentes para o Claude Code | [services.gguerreiro232.com/go/ruflo](https://services.gguerreiro232.com/go/ruflo/) |
-| Superpowers | Plugin que dá superpoderes ao Claude Code | [services.gguerreiro232.com/go/superpowers](https://services.gguerreiro232.com/go/superpowers/) |
-| HyperFrames | Vídeos feitos com código (HTML) | [services.gguerreiro232.com/go/hyperframes](https://services.gguerreiro232.com/go/hyperframes/) |
-| [openGym](https://youtu.be/Z26l3rcKqPg) | Ginásio open source | [services.gguerreiro232.com/go/opengym](https://services.gguerreiro232.com/go/opengym/) |
-| [Pi-hole anti-apostas (sem anúncios)](https://youtu.be/2H8oiDTNr4o) | Produto KCU Services | [services.gguerreiro232.com/go/pihole-sem-anuncios](https://services.gguerreiro232.com/go/pihole-sem-anuncios/) |
-| [Museu da Vinci 3D](https://youtu.be/_PyWAxv5pTY) | Museu virtual em 3D | [services.gguerreiro232.com/go/museu-vinci](https://services.gguerreiro232.com/go/museu-vinci/) |
-| [PIGGY + LifeOS (pagas uma vez)](https://youtu.be/LEMjCCANBro) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-uma-vez](https://services.gguerreiro232.com/go/piggy-uma-vez/) |
-| [Pulse Local](https://youtu.be/Y-Q0vBJ3QaU) | Finanças pessoais locais | [services.gguerreiro232.com/go/pulse-local](https://services.gguerreiro232.com/go/pulse-local/) |
-| [Playbook de Proteção (zero portas abertas)](https://youtu.be/oxcXNzbfdE4) | Produto KCU Services | [services.gguerreiro232.com/go/playbook-zero-portas](https://services.gguerreiro232.com/go/playbook-zero-portas/) |
-| [PDF to MP3](https://youtu.be/O-0dVbCXmaA) | Converter PDF em áudio | [services.gguerreiro232.com/go/pdf-to-mp3](https://services.gguerreiro232.com/go/pdf-to-mp3/) |
-| [Assistência KCU](https://youtu.be/_-JXHTTmLOk) | Produto KCU Services | [services.gguerreiro232.com/go/assistencia](https://services.gguerreiro232.com/go/assistencia/) |
-| [AnyPS5](https://youtu.be/YaK3ynHiNMc) | Ferramenta open source para PS5 | [services.gguerreiro232.com/go/anyps5](https://services.gguerreiro232.com/go/anyps5/) |
-| [rea](https://youtu.be/Z1PyuAHT5Z8) | Ferramenta open source | [services.gguerreiro232.com/go/rea](https://services.gguerreiro232.com/go/rea/) |
-| [PIGGY + LifeOS (sem nuvem)](https://youtu.be/kqzvRxJbYR0) | Produto KCU Services | [services.gguerreiro232.com/go/piggy-sem-nuvem](https://services.gguerreiro232.com/go/piggy-sem-nuvem/) |
-| [Guitoro](https://youtu.be/nYR48t0IrH4) | Aprender guitarra com IA | [services.gguerreiro232.com/go/guitoro](https://services.gguerreiro232.com/go/guitoro/) |
-| [Flipflop](https://youtu.be/RyANu1RTrB0) | Túneis para expor serviços locais | [services.gguerreiro232.com/go/flipflop](https://services.gguerreiro232.com/go/flipflop/) |
-| [Claude Haiku 5.5](https://youtu.be/v6gTkGhc0G4) | Modelo rápido e barato da Anthropic | [services.gguerreiro232.com/go/claude-haiku-5-5](https://services.gguerreiro232.com/go/claude-haiku-5-5/) |
-| [OpenCode 2.0](https://youtu.be/sORF_wdXodg) | Agente de código open source | [services.gguerreiro232.com/go/opencode-2](https://services.gguerreiro232.com/go/opencode-2/) |
-| [LFM 2.5](https://youtu.be/3wYfqsTgD_Y) | Modelo local da Liquid AI | [services.gguerreiro232.com/go/lfm-2-5](https://services.gguerreiro232.com/go/lfm-2-5/) |
-| [AI-DLC Workflows](https://youtu.be/XDns5aAJo38) | Fluxos de desenvolvimento com IA da AWS | [services.gguerreiro232.com/go/aidlc-workflows](https://services.gguerreiro232.com/go/aidlc-workflows/) |
-| [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [services.gguerreiro232.com/go/mcp-registry](https://services.gguerreiro232.com/go/mcp-registry/) |
-| Claude Code | Agente de código no terminal | [services.gguerreiro232.com/go/claude-code](https://services.gguerreiro232.com/go/claude-code/) |
+| Sherlock (OSINT) | Sherlock: ferramenta gratuita e aberta que procura um username em várias redes sociais. | [lab.gguerreiro232.com/go/osint-sherlock](https://lab.gguerreiro232.com/go/osint-sherlock/) |
+| Pi-hole anti-apostas | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-short-14-11](https://lab.gguerreiro232.com/go/pihole-short-14-11/) |
+| Claude Code | Agente de código da Anthropic que corrige bugs a partir da descrição do problema | [lab.gguerreiro232.com/go/100-2026-11-07-claude](https://lab.gguerreiro232.com/go/100-2026-11-07-claude/) |
+| Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-portas-09-11](https://lab.gguerreiro232.com/go/playbook-portas-09-11/) |
+| Kimi K3.1 Pro | Página oficial do Kimi K3.1 Pro: modelo de pesos abertos com janela de 1M de tokens. | [lab.gguerreiro232.com/go/kimi-k31](https://lab.gguerreiro232.com/go/kimi-k31/) |
+| deepseek-v41 |  | [lab.gguerreiro232.com/go/deepseek-v41](https://lab.gguerreiro232.com/go/deepseek-v41/) |
+| [O anúncio oficial da Anthropic](https://youtu.be/HTolSbDBpWA) | O anúncio oficial da Anthropic (12/02/2026) com os números do Claude Code: 2,5 mil milhões por ano, empresas acima de metade | [lab.gguerreiro232.com/go/agente-terminal-escala](https://lab.gguerreiro232.com/go/agente-terminal-escala/) |
+| [tmate](https://youtu.be/CG-ruWHtwvQ) | Um comando que liga duas pessoas ao mesmo terminal por SSH, com modo só de leitura | [lab.gguerreiro232.com/go/tmate-pair-debug](https://lab.gguerreiro232.com/go/tmate-pair-debug/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-19-11](https://lab.gguerreiro232.com/go/checklist-seguranca-19-11/) |
+| PIGGY + LifeOS | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-18-11](https://lab.gguerreiro232.com/go/piggy-lifeos-18-11/) |
+| Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-protecao-17-11](https://lab.gguerreiro232.com/go/playbook-protecao-17-11/) |
+| Assistência KCU | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-kcu-16-11](https://lab.gguerreiro232.com/go/assistencia-kcu-16-11/) |
+| Pi-hole anti-apostas | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-15-11](https://lab.gguerreiro232.com/go/pihole-15-11/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-14-11](https://lab.gguerreiro232.com/go/checklist-seguranca-14-11/) |
+| PIGGY + LifeOS | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-13-11](https://lab.gguerreiro232.com/go/piggy-lifeos-13-11/) |
+| Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-protecao-12-11](https://lab.gguerreiro232.com/go/playbook-protecao-12-11/) |
+| Assistência KCU | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-kcu-11-11](https://lab.gguerreiro232.com/go/assistencia-kcu-11-11/) |
+| Pi-hole anti-apostas | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-10-11](https://lab.gguerreiro232.com/go/pihole-10-11/) |
+| GitDiagram | Troca "hub" por "diagram" no link do GitHub e vês a arquitetura do projeto | [lab.gguerreiro232.com/go/gitdiagram-arquitetura](https://lab.gguerreiro232.com/go/gitdiagram-arquitetura/) |
+| [As 5 rondas de «melhora isto» ao código](https://youtu.be/5Lq6bR6ZPBE) | As 5 rondas completas de «melhora isto» a um agente de código, de def soma(a, b) a 7 classes | [lab.gguerreiro232.com/go/melhora-codigo-100x](https://lab.gguerreiro232.com/go/melhora-codigo-100x/) |
+| [As 5 rondas de «melhora isto»](https://youtu.be/VCoS-vunghE) | As 5 rondas completas de «melhora isto» a um agente de IA, da frase original à versão ilegível | [lab.gguerreiro232.com/go/melhora-isto-loop](https://lab.gguerreiro232.com/go/melhora-isto-loop/) |
+| [Live Share](https://youtu.be/LLeQVs4q11Q) | Extensão gratuita do VS Code: um cursor por pessoa, terminal e debug partilhados | [lab.gguerreiro232.com/go/liveshare-pair-programming](https://lab.gguerreiro232.com/go/liveshare-pair-programming/) |
+| [Painel do Claude Code](https://youtu.be/-_V6eEoxdtg) | Anúncio oficial da Anthropic: contribution metrics do Claude Code (PRs e linhas com o agente) | [lab.gguerreiro232.com/go/claude-code-painel](https://lab.gguerreiro232.com/go/claude-code-painel/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-sem-internet](https://lab.gguerreiro232.com/go/piggy-lifeos-sem-internet/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-tempo](https://lab.gguerreiro232.com/go/checklist-seguranca-tempo/) |
+| Assistência KCU | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido](https://lab.gguerreiro232.com/go/assistencia-kcu-resolvido-rapido/) |
+| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-bloqueio-rede](https://lab.gguerreiro232.com/go/pihole-bloqueio-rede/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-sem-banco](https://lab.gguerreiro232.com/go/piggy-lifeos-sem-banco/) |
+| [Overtone](https://youtu.be/7X-cmyDUj8k) | Legendas que se ajustam a qualquer formato de ecrã | [lab.gguerreiro232.com/go/overtone-legendas](https://lab.gguerreiro232.com/go/overtone-legendas/) |
+| [dontallow](https://youtu.be/AfOILmXOVZM) | O Mac deixa de interromper com o aviso de rede local | [lab.gguerreiro232.com/go/dontallow-mac](https://lab.gguerreiro232.com/go/dontallow-mac/) |
+| [kube32](https://youtu.be/SU-mBzw5xC4) | Kubernetes a gerir microcontroladores ESP32 | [lab.gguerreiro232.com/go/kube32-esp32](https://lab.gguerreiro232.com/go/kube32-esp32/) |
+| [doomformer](https://youtu.be/e8Lw-RnvPlg) | O DOOM a correr dentro de uma rede neural | [lab.gguerreiro232.com/go/doomformer](https://lab.gguerreiro232.com/go/doomformer/) |
+| [Hindsight](https://youtu.be/Sp3nOOE9GAM) | Memória que os agentes de IA aprendem e guardam | [lab.gguerreiro232.com/go/hindsight-memoria-ia](https://lab.gguerreiro232.com/go/hindsight-memoria-ia/) |
+| [Lightpanda](https://youtu.be/jhyANwJYDcs) | Browser feito só para agentes de IA | [lab.gguerreiro232.com/go/lightpanda-browser](https://lab.gguerreiro232.com/go/lightpanda-browser/) |
+| [nesformer](https://youtu.be/Yc4jdQx6Y3w) | Um jogo da Nintendo a correr dentro de um modelo de IA | [lab.gguerreiro232.com/go/nesformer](https://lab.gguerreiro232.com/go/nesformer/) |
+| [OpenBot](https://youtu.be/f4MTkmo6dsM) | Cada IA com o seu próprio browser e ficheiros | [lab.gguerreiro232.com/go/openbot-copilotkit](https://lab.gguerreiro232.com/go/openbot-copilotkit/) |
+| [Catcopter](https://youtu.be/b03IUZaai5w) | Jogo multijogador de gatos voadores no browser | [lab.gguerreiro232.com/go/catcopter](https://lab.gguerreiro232.com/go/catcopter/) |
+| [Harvey](https://youtu.be/ULN32dZ6SQg) | Agente de vendas que corre na tua subscrição Claude ou Codex | [lab.gguerreiro232.com/go/harvey-agente-vendas](https://lab.gguerreiro232.com/go/harvey-agente-vendas/) |
+| [Sketch Stadium](https://youtu.be/1Uu4I-Z4zW4) | Um agente de IA desenha e adivinha sozinho, ao estilo Pictionary | [lab.gguerreiro232.com/go/sketch-stadium](https://lab.gguerreiro232.com/go/sketch-stadium/) |
+| claude-seo | Skill de SEO técnico e GEO para o Claude Code | [lab.gguerreiro232.com/go/claude-seo-skill](https://lab.gguerreiro232.com/go/claude-seo-skill/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-09-11](https://lab.gguerreiro232.com/go/checklist-seguranca-09-11/) |
+| PIGGY + LifeOS (notas em markdown) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-08-11](https://lab.gguerreiro232.com/go/piggy-lifeos-08-11/) |
+| Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-protecao-07-11](https://lab.gguerreiro232.com/go/playbook-protecao-07-11/) |
+| Assistência KCU | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-kcu-06-11](https://lab.gguerreiro232.com/go/assistencia-kcu-06-11/) |
+| Pi-hole anti-apostas (as listas certas) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-05-11](https://lab.gguerreiro232.com/go/pihole-05-11/) |
+| assistencia-kcu-04-11 |  | [lab.gguerreiro232.com/go/assistencia-kcu-04-11](https://lab.gguerreiro232.com/go/assistencia-kcu-04-11/) |
+| checklist-seguranca-03-11 |  | [lab.gguerreiro232.com/go/checklist-seguranca-03-11](https://lab.gguerreiro232.com/go/checklist-seguranca-03-11/) |
+| pihole-02-11 |  | [lab.gguerreiro232.com/go/pihole-02-11](https://lab.gguerreiro232.com/go/pihole-02-11/) |
+| piggy-lifeos-01-11 |  | [lab.gguerreiro232.com/go/piggy-lifeos-01-11](https://lab.gguerreiro232.com/go/piggy-lifeos-01-11/) |
+| playbook-protecao-31-10 |  | [lab.gguerreiro232.com/go/playbook-protecao-31-10](https://lab.gguerreiro232.com/go/playbook-protecao-31-10/) |
+| [Andrej Karpathy Skills](https://youtu.be/WjAwiVp0P-g) | Um CLAUDE.md com as regras do Karpathy para agentes de código | [lab.gguerreiro232.com/go/claude-md-karpathy](https://lab.gguerreiro232.com/go/claude-md-karpathy/) |
+| Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-protecao-escudo](https://lab.gguerreiro232.com/go/playbook-protecao-escudo/) |
+| [Knowledge Work Plugins](https://youtu.be/bNZPEHVEgzM) | 11 plugins open source da Anthropic para o Claude Cowork | [lab.gguerreiro232.com/go/claude-cowork-plugins](https://lab.gguerreiro232.com/go/claude-cowork-plugins/) |
+| Checklist de Segurança do Servidor | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-passo-a-passo](https://lab.gguerreiro232.com/go/checklist-seguranca-passo-a-passo/) |
+| [Superpowers](https://youtu.be/rn3H2I45zKA) | Metodologia completa para o Claude Code antes de escrever código | [lab.gguerreiro232.com/go/claude-superpowers](https://lab.gguerreiro232.com/go/claude-superpowers/) |
+| security-audit-skill (Cloudflare) | Skill de auditoria de segurança para agentes | [lab.gguerreiro232.com/go/security-audit-cloudflare](https://lab.gguerreiro232.com/go/security-audit-cloudflare/) |
+| impeccable | Critério de design para agentes de código | [lab.gguerreiro232.com/go/impeccable-design](https://lab.gguerreiro232.com/go/impeccable-design/) |
+| claude-mem | Memória persistente para o Claude Code | [lab.gguerreiro232.com/go/claude-mem](https://lab.gguerreiro232.com/go/claude-mem/) |
+| [Xbox 360 hack](https://youtu.be/FPiSSUijk88) | Fault injection numa Xbox 360 com um Raspberry Pi Pico | [lab.gguerreiro232.com/go/xbox-360-glitch](https://lab.gguerreiro232.com/go/xbox-360-glitch/) |
+| [Pi-hole anti-apostas (as listas certas)](https://youtu.be/wIvhhT9KwL0) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-lista-apostas](https://lab.gguerreiro232.com/go/pihole-lista-apostas/) |
+| [Photocraft](https://youtu.be/0dkhCiN8LKM) | Editor de imagens open source em Rust puro | [lab.gguerreiro232.com/go/photocraft-rust](https://lab.gguerreiro232.com/go/photocraft-rust/) |
+| [Clova](https://youtu.be/EnM642_R1ao) | Um endereço de email por empresa, trancado no primeiro remetente | [lab.gguerreiro232.com/go/clova-email](https://lab.gguerreiro232.com/go/clova-email/) |
+| [PIGGY + LifeOS (notas em markdown)](https://youtu.be/uisZdndmbu8) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-notas-markdown](https://lab.gguerreiro232.com/go/piggy-lifeos-notas-markdown/) |
+| [CADCraft](https://youtu.be/4U_MTbQt59Y) | CAD e design 3D open source, em Rust puro | [lab.gguerreiro232.com/go/cadcraft-rust](https://lab.gguerreiro232.com/go/cadcraft-rust/) |
+| [Checklist de Segurança do Servidor](https://youtu.be/EjcDRGjf9oA) | Produto KCU Services | [lab.gguerreiro232.com/go/checklist-seguranca-servidor](https://lab.gguerreiro232.com/go/checklist-seguranca-servidor/) |
+| [Indigene](https://youtu.be/1ot-nOFcD5k) | Plantas nativas da tua zona, a partir da localização | [lab.gguerreiro232.com/go/indigene-plantas](https://lab.gguerreiro232.com/go/indigene-plantas/) |
+| [Pi-hole anti-apostas](https://youtu.be/3XPW3L0_kkk) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-casa-toda](https://lab.gguerreiro232.com/go/pihole-casa-toda/) |
+| [Graphicle](https://youtu.be/7eAwNud1oK8) | Lê o código e desenha o grafo de arquitetura sozinho | [lab.gguerreiro232.com/go/graphicle-diagramas](https://lab.gguerreiro232.com/go/graphicle-diagramas/) |
+| [Go 1.27](https://youtu.be/ChhvYqE6DTs) | Reutilização de ligações HTTP/1 melhorada | [lab.gguerreiro232.com/go/go-1-27-http](https://lab.gguerreiro232.com/go/go-1-27-http/) |
+| [Jev 1.14.0](https://youtu.be/mboTzwouzqA) | Agentes de IA que simulam cenários antes de escrever código | [lab.gguerreiro232.com/go/jev-1-14](https://lab.gguerreiro232.com/go/jev-1-14/) |
+| [Assistência KCU](https://youtu.be/G-tbw_vIKLc) | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-kcu-video](https://lab.gguerreiro232.com/go/assistencia-kcu-video/) |
+| [Claude Opus 5.5](https://youtu.be/pqD-h5cVAMA) | Modelo de topo da Anthropic, 40% mais barato | [lab.gguerreiro232.com/go/claude-opus-5-5](https://lab.gguerreiro232.com/go/claude-opus-5-5/) |
+| [Ollama: IA local no teu PC](https://youtu.be/Ri0G1sA-lzA) | Corre modelos de IA na tua placa, sem conta nem nuvem | [lab.gguerreiro232.com/go/ollama-ia-local](https://lab.gguerreiro232.com/go/ollama-ia-local/) |
+| [PIGGY + LifeOS (sem mensalidade)](https://youtu.be/9u9JfPvPp00) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade](https://lab.gguerreiro232.com/go/piggy-lifeos-sem-mensalidade/) |
+| [Claude Code Enterprise](https://youtu.be/W-9jfv8ViLA) | Agente de terminal da Anthropic para equipas | [lab.gguerreiro232.com/go/claude-code-enterprise](https://lab.gguerreiro232.com/go/claude-code-enterprise/) |
+| [Petal](https://youtu.be/LDILC0xqk8E) | Pair programming open source, um cursor por pessoa | [lab.gguerreiro232.com/go/petal-pair-programming](https://lab.gguerreiro232.com/go/petal-pair-programming/) |
+| [Duck Pond](https://youtu.be/R7o--RjqBL4) | Lagoa de patos com som sintetizado ao vivo | [lab.gguerreiro232.com/go/duck-pond](https://lab.gguerreiro232.com/go/duck-pond/) |
+| [Playbook de Proteção (backup antes de mexer)](https://youtu.be/Spmu_oIUYCM) | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-backup-rollback](https://lab.gguerreiro232.com/go/playbook-backup-rollback/) |
+| [Claude Sonnet 5.5](https://youtu.be/dWkfp1kQPQY) | Modelo da Anthropic, mais rápido e mais barato | [lab.gguerreiro232.com/go/claude-sonnet-5-5](https://lab.gguerreiro232.com/go/claude-sonnet-5-5/) |
+| 3 dicas de produtividade com IA | Serviços de IA | [lab.gguerreiro232.com/go/3-dicas-produtividade-ia](https://lab.gguerreiro232.com/go/3-dicas-produtividade-ia/) |
+| Antes/Depois: sem Claude vs com Claude | Agente de código no terminal | [lab.gguerreiro232.com/go/antes-depois-claude](https://lab.gguerreiro232.com/go/antes-depois-claude/) |
+| Top 5 repos para IA local | Ollama, n8n, Pi-hole, Proxmox e mais um | [lab.gguerreiro232.com/go/top-5-repos-ia-local](https://lab.gguerreiro232.com/go/top-5-repos-ia-local/) |
+| Tour do meu homelab | Proxmox, Ollama, n8n, Pi-hole e backups numa máquina | [lab.gguerreiro232.com/go/setup-homelab-tour](https://lab.gguerreiro232.com/go/setup-homelab-tour/) |
+| Playbook de Proteção (unboxing) | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-protecao-unboxing](https://lab.gguerreiro232.com/go/playbook-protecao-unboxing/) |
+| DeepSeek V3 vs Claude | Custo-benefício para automações e homelab | [lab.gguerreiro232.com/go/deepseek-v3-vs-claude](https://lab.gguerreiro232.com/go/deepseek-v3-vs-claude/) |
+| Pi-hole: bloqueador de domínios | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-bloqueador-dns](https://lab.gguerreiro232.com/go/pihole-bloqueador-dns/) |
+| Ollama + Claude Code | IA local no Claude Code, sem cloud | [lab.gguerreiro232.com/go/ollama-claude-code](https://lab.gguerreiro232.com/go/ollama-claude-code/) |
+| Security-Audit-Skill | Auditoria de segurança de código em 6 fases | [lab.gguerreiro232.com/go/security-audit-skill](https://lab.gguerreiro232.com/go/security-audit-skill/) |
+| REA: engenharia reversa com IA | IA a abrir apps fechadas com Ghidra e Hopper | [lab.gguerreiro232.com/go/rea-engenharia-reversa](https://lab.gguerreiro232.com/go/rea-engenharia-reversa/) |
+| Blender, o programa do Óscar | O programa open source onde fizeram o Flow, Óscar de animação 2025: onde o descarregar e por onde começar | [lab.gguerreiro232.com/go/blender](https://lab.gguerreiro232.com/go/blender/) |
+| Servidor em casa com modelo local | O guia: seu servidor lê documentos, organiza fotos e controla a casa, sem nuvem | [lab.gguerreiro232.com/go/servidor-casa](https://lab.gguerreiro232.com/go/servidor-casa/) |
+| Claude Code Local | Claude Code sem internet (via Ollama) | [lab.gguerreiro232.com/go/claude-code-local](https://lab.gguerreiro232.com/go/claude-code-local/) |
+| O meu homelab | O que corre no homelab do KCUuLab: um mini PC, Proxmox e 9 máquinas | [lab.gguerreiro232.com/go/homelab](https://lab.gguerreiro232.com/go/homelab/) |
+| [Hermes Agent](https://youtu.be/gLz1B_2IkP0) | Agente de IA open source que vive no teu computador | [lab.gguerreiro232.com/go/hermes](https://lab.gguerreiro232.com/go/hermes/) |
+| 5 apps no servidor em casa | Pi-hole, SearXNG, Home Assistant, AudioBookShelf e Tailscale | [lab.gguerreiro232.com/go/5-apps-em-casa](https://lab.gguerreiro232.com/go/5-apps-em-casa/) |
+| 5 jogos com segredos | Histórias e vídeos do KCUuLab | [lab.gguerreiro232.com/go/jogos-segredos](https://lab.gguerreiro232.com/go/jogos-segredos/) |
+| Wi-Fi lento à noite | Guias de rede do KCUuLab | [lab.gguerreiro232.com/go/wifi-lento](https://lab.gguerreiro232.com/go/wifi-lento/) |
+| 5 atalhos de teclado | Truques e guias do KCUuLab | [lab.gguerreiro232.com/go/atalhos-teclado](https://lab.gguerreiro232.com/go/atalhos-teclado/) |
+| Chatterbox | IA que clona a voz | [lab.gguerreiro232.com/go/chatterbox](https://lab.gguerreiro232.com/go/chatterbox/) |
+| umbrelOS 2.0 | Servidor de casa com cara de Apple | [lab.gguerreiro232.com/go/umbrel-2-0](https://lab.gguerreiro232.com/go/umbrel-2-0/) |
+| [Pi-hole anti-apostas](https://youtu.be/OJaOaFvmLL4) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-apostas](https://lab.gguerreiro232.com/go/pihole-apostas/) |
+| PIGGY + LifeOS | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-lifeos](https://lab.gguerreiro232.com/go/piggy-lifeos/) |
+| [Playbook de Proteção (servidor em casa)](https://youtu.be/EPH0nOZHqUo) | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-servidor](https://lab.gguerreiro232.com/go/playbook-servidor/) |
+| Empresa de 13 Agentes | Serviços de IA | [lab.gguerreiro232.com/go/empresa-13-agentes](https://lab.gguerreiro232.com/go/empresa-13-agentes/) |
+| 5 repositórios do GitHub | Tabela de links dos vídeos do KCUuLAB | [lab.gguerreiro232.com/go/5-repos-github](https://lab.gguerreiro232.com/go/5-repos-github/) |
+| Craft (alternativas grátis à Adobe) | Photocraft, Filmcraft e Artcraft: alternativa open source à Adobe, em Rust | [lab.gguerreiro232.com/go/craft-adobe-gratis](https://lab.gguerreiro232.com/go/craft-adobe-gratis/) |
+| 3 coisas do servidor em casa | Guia para não perderes tudo: backups no Proxmox | [lab.gguerreiro232.com/go/3-coisas-servidor](https://lab.gguerreiro232.com/go/3-coisas-servidor/) |
+| Backups no Proxmox (Parte 2) | Guia oficial de backups do Proxmox | [lab.gguerreiro232.com/go/backups-parte-2](https://lab.gguerreiro232.com/go/backups-parte-2/) |
+| Ruflo | Agentes para o Claude Code | [lab.gguerreiro232.com/go/ruflo](https://lab.gguerreiro232.com/go/ruflo/) |
+| Superpowers | Plugin que dá superpoderes ao Claude Code | [lab.gguerreiro232.com/go/superpowers](https://lab.gguerreiro232.com/go/superpowers/) |
+| HyperFrames | Vídeos feitos com código (HTML) | [lab.gguerreiro232.com/go/hyperframes](https://lab.gguerreiro232.com/go/hyperframes/) |
+| [openGym](https://youtu.be/Z26l3rcKqPg) | Ginásio open source | [lab.gguerreiro232.com/go/opengym](https://lab.gguerreiro232.com/go/opengym/) |
+| [Pi-hole anti-apostas (sem anúncios)](https://youtu.be/2H8oiDTNr4o) | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-sem-anuncios](https://lab.gguerreiro232.com/go/pihole-sem-anuncios/) |
+| [Museu da Vinci 3D](https://youtu.be/_PyWAxv5pTY) | Museu virtual em 3D | [lab.gguerreiro232.com/go/museu-vinci](https://lab.gguerreiro232.com/go/museu-vinci/) |
+| [PIGGY + LifeOS (pagas uma vez)](https://youtu.be/LEMjCCANBro) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-uma-vez](https://lab.gguerreiro232.com/go/piggy-uma-vez/) |
+| [Pulse Local](https://youtu.be/Y-Q0vBJ3QaU) | Finanças pessoais locais | [lab.gguerreiro232.com/go/pulse-local](https://lab.gguerreiro232.com/go/pulse-local/) |
+| [Playbook de Proteção (zero portas abertas)](https://youtu.be/oxcXNzbfdE4) | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-zero-portas](https://lab.gguerreiro232.com/go/playbook-zero-portas/) |
+| [PDF to MP3](https://youtu.be/O-0dVbCXmaA) | Converter PDF em áudio | [lab.gguerreiro232.com/go/pdf-to-mp3](https://lab.gguerreiro232.com/go/pdf-to-mp3/) |
+| [Assistência KCU](https://youtu.be/_-JXHTTmLOk) | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia](https://lab.gguerreiro232.com/go/assistencia/) |
+| [AnyPS5](https://youtu.be/YaK3ynHiNMc) | Ferramenta open source para PS5 | [lab.gguerreiro232.com/go/anyps5](https://lab.gguerreiro232.com/go/anyps5/) |
+| [rea](https://youtu.be/Z1PyuAHT5Z8) | Ferramenta open source | [lab.gguerreiro232.com/go/rea](https://lab.gguerreiro232.com/go/rea/) |
+| [PIGGY + LifeOS (sem nuvem)](https://youtu.be/kqzvRxJbYR0) | Produto KCU Services | [lab.gguerreiro232.com/go/piggy-sem-nuvem](https://lab.gguerreiro232.com/go/piggy-sem-nuvem/) |
+| [Guitoro](https://youtu.be/nYR48t0IrH4) | Aprender guitarra com IA | [lab.gguerreiro232.com/go/guitoro](https://lab.gguerreiro232.com/go/guitoro/) |
+| [Flipflop](https://youtu.be/RyANu1RTrB0) | Túneis para expor serviços locais | [lab.gguerreiro232.com/go/flipflop](https://lab.gguerreiro232.com/go/flipflop/) |
+| [Claude Haiku 5.5](https://youtu.be/v6gTkGhc0G4) | Modelo rápido e barato da Anthropic | [lab.gguerreiro232.com/go/claude-haiku-5-5](https://lab.gguerreiro232.com/go/claude-haiku-5-5/) |
+| [OpenCode 2.0](https://youtu.be/sORF_wdXodg) | Agente de código open source | [lab.gguerreiro232.com/go/opencode-2](https://lab.gguerreiro232.com/go/opencode-2/) |
+| [LFM 2.5](https://youtu.be/3wYfqsTgD_Y) | Modelo local da Liquid AI | [lab.gguerreiro232.com/go/lfm-2-5](https://lab.gguerreiro232.com/go/lfm-2-5/) |
+| [AI-DLC Workflows](https://youtu.be/XDns5aAJo38) | Fluxos de desenvolvimento com IA da AWS | [lab.gguerreiro232.com/go/aidlc-workflows](https://lab.gguerreiro232.com/go/aidlc-workflows/) |
+| [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [lab.gguerreiro232.com/go/mcp-registry](https://lab.gguerreiro232.com/go/mcp-registry/) |
+| Claude Code | Agente de código no terminal | [lab.gguerreiro232.com/go/claude-code](https://lab.gguerreiro232.com/go/claude-code/) |
 
-_129 links, do mais recente para o mais antigo._
+_130 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
-Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [services.gguerreiro232.com/go](https://services.gguerreiro232.com/go/).
+Se comentaste no Instagram, o link chega-te por mensagem direta. Se não chegou, está tudo nesta página e em [lab.gguerreiro232.com/go](https://lab.gguerreiro232.com/go/).
 
 ## 🔗 Um link não funciona?
 [Abre um aviso](https://github.com/KCUuLAB/kcuulab/issues/new/choose) com o nome do vídeo. Os links também são verificados automaticamente todas as semanas.

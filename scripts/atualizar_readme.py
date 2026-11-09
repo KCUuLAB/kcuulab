@@ -1,6 +1,6 @@
 """Refaz o README.md a partir da lista pública de links do KCUuLab.
 
-Fonte: https://services.gguerreiro232.com/go/links.json (gerada pelo funil do site).
+Fonte: https://lab.gguerreiro232.com/go/links.json (gerada pelo funil do site).
 Corre sozinho na GitHub Action `atualizar-readme.yml` (todos os dias e a pedido).
 Só mexe no que está entre os marcadores <!-- LINKS:INICIO --> e <!-- LINKS:FIM -->.
 Sem dependências: só a biblioteca padrão do Python.
@@ -10,7 +10,7 @@ import sys
 import urllib.request
 from pathlib import Path
 
-FONTE = "https://services.gguerreiro232.com/go/links.json"
+FONTE = "https://lab.gguerreiro232.com/go/links.json"
 README = Path(__file__).resolve().parent.parent / "README.md"
 INICIO, FIM = "<!-- LINKS:INICIO -->", "<!-- LINKS:FIM -->"
 
