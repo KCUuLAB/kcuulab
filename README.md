@@ -20,9 +20,11 @@ Cada link passa por `lab.gguerreiro232.com/go/<nome>` e leva-te ao projeto ou ao
 <!-- LINKS:INICIO -->
 | Vídeo | O que é | Link |
 |---|---|---|
+| Claude Fable 5.2 | Claude Fable 5.2: página oficial da Anthropic com disponibilidade e preços. | [lab.gguerreiro232.com/go/fable-52](https://lab.gguerreiro232.com/go/fable-52/) |
 | Assistência KCU | Produto KCU Services | [lab.gguerreiro232.com/go/assistencia-erro-11-11](https://lab.gguerreiro232.com/go/assistencia-erro-11-11/) |
 | Sherlock (OSINT) | Sherlock: ferramenta gratuita e aberta que procura um username em várias redes sociais. | [lab.gguerreiro232.com/go/osint-sherlock](https://lab.gguerreiro232.com/go/osint-sherlock/) |
 | Pi-hole anti-apostas | Produto KCU Services | [lab.gguerreiro232.com/go/pihole-short-14-11](https://lab.gguerreiro232.com/go/pihole-short-14-11/) |
+| Claude Code | Agente de código da Anthropic que corre no terminal, no IDE, no Slack e na web | [lab.gguerreiro232.com/go/101-2026-11-09-claude](https://lab.gguerreiro232.com/go/101-2026-11-09-claude/) |
 | [Claude Code](https://youtu.be/dUacFudVMVM) | Agente de código da Anthropic que corrige bugs a partir da descrição do problema | [lab.gguerreiro232.com/go/100-2026-11-07-claude](https://lab.gguerreiro232.com/go/100-2026-11-07-claude/) |
 | Playbook de Proteção | Produto KCU Services | [lab.gguerreiro232.com/go/playbook-portas-09-11](https://lab.gguerreiro232.com/go/playbook-portas-09-11/) |
 | Kimi K3.1 Pro | Página oficial do Kimi K3.1 Pro: modelo de pesos abertos com janela de 1M de tokens. | [lab.gguerreiro232.com/go/kimi-k31](https://lab.gguerreiro232.com/go/kimi-k31/) |
@@ -152,7 +154,7 @@ Cada link passa por `lab.gguerreiro232.com/go/<nome>` e leva-te ao projeto ou ao
 | [MCP Registry](https://youtu.be/jnDxnjiJGTw) | Registo oficial de servidores MCP | [lab.gguerreiro232.com/go/mcp-registry](https://lab.gguerreiro232.com/go/mcp-registry/) |
 | Claude Code | Agente de código no terminal | [lab.gguerreiro232.com/go/claude-code](https://lab.gguerreiro232.com/go/claude-code/) |
 
-_131 links, do mais recente para o mais antigo._
+_133 links, do mais recente para o mais antigo._
 <!-- LINKS:FIM -->
 
 ## 💬 Comentaste um vídeo?
